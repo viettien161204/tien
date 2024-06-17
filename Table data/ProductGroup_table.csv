@@ -1,0 +1,11 @@
+Product_Group_ID,Product_Group_Name,Product_Group_Description,Product_Category,Product_Subcategory,Product_Group_Manager,Product_Group_Region,Product_Group_Supplier,Product_Group_Marketing,Product_Group_Availability
+1,Electronics,Group of electronic products,Electronics,Computers,John Smith,Global,ABC Electronics,Online and offline marketing,In stock
+2,Home Appliances,Group of home appliances,Appliances,Kitchen Appliances,Jane Doe,Global,XYZ Appliances,Online marketing,In stock
+3,Clothing,Group of clothing items,Fashion,Men's Clothing,Emily Johnson,Global,Fashion Hub,Print and online marketing,In stock
+4,Beauty Products,Group of beauty and personal care products,Beauty,Skincare,David Wilson,Global,Beauty Plus,Online marketing,Out of stock
+5,Books,Group of books and literary works,Books,Fiction,Sarah Thompson,Global,Book World,Online marketing,In stock
+6,Sports Equipment,Group of sports equipment and accessories,Sports,Fitness Equipment,Michael Brown,Global,Sporty Supplies,Online marketing,In stock
+7,Toys and Games,Group of toys and games,Toys,Outdoor Games,Emma Davis,Global,Playtime Toys,Online marketing,In stock
+8,Home Decor,Group of home decor items,Home,Wall Art,William Anderson,Global,Decorative Designs,Online marketing,In stock
+9,Office Supplies,Group of office supplies,Office,Stationery,Olivia Harris,Global,Office Depot,Online marketing,In stock
+10,Pet Accessories,Group of pet accessories,Pets,Dog Accessories,Aiden Martinez,Global,Pet Paradise,Online marketing,In stock

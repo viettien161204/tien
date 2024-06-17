@@ -1,0 +1,201 @@
+Sale_ID,Customer_ID,Product_ID,Sale_Date,Sale_Quantity,Sale_Price,Sale_Total_Amount,Sale_Discount,Sale_Payment_Method,Sale_Shipping_Address
+1,121,5,2024-05-02,2,25.99,51.98,0.00,Credit Card,123 Lily St, Dallas, TX, United States
+2,28,10,2024-06-10,1,19.99,19.99,0.00,PayPal,456 Iris St, Seattle, WA, United States
+3,152,3,2024-04-17,3,14.99,44.97,0.00,Credit Card,789 Orchid St, Denver, CO, United States
+4,76,8,2024-05-21,1,49.99,49.99,0.00,Credit Card,987 Sunflower St, Houston, TX, United States
+5,195,2,2024-06-07,2,9.99,19.98,0.00,PayPal,321 Bluebell St, Atlanta, GA, United States
+6,42,6,2024-05-12,1,34.99,34.99,0.00,PayPal,654 Marigold St, Detroit, MI, United States
+7,167,1,2024-04-25,2,49.99,99.98,0.00,Credit Card,789 Hyacinth St, Minneapolis, MN, United States
+8,93,4,2024-05-15,1,29.99,29.99,0.00,Credit Card,987 Pansy St, San Diego, CA, United States
+9,176,7,2024-06-03,3,22.99,68.97,0.00,PayPal,654 Lily of the Valley St, Seattle, WA, United States
+10,16,9,2024-05-09,2,39.99,79.98,0.00,Credit Card,321 Snapdragon St, Orlando, FL, United States
+11,138,7,2024-04-30,1,22.99,22.99,0.00,Credit Card,123 Carnation St, New York, NY, United States
+12,85,2,2024-06-05,3,9.99,29.97,0.00,PayPal,456 Lily St, Chicago, IL, United States
+13,112,5,2024-05-14,2,25.99,51.98,0.00,Credit Card,789 Rose St, Los Angeles, CA, United States
+14,163,3,2024-06-12,1,14.99,14.99,0.00,Credit Card,987 Tulip St, San Francisco, CA, United States
+15,57,10,2024-05-18,3,19.99,59.97,0.00,PayPal,321 Gerbera St, Dallas, TX, United States
+16,194,6,2024-04-28,1,34.99,34.99,0.00,PayPal,654 Aster St, Miami, FL, United States
+17,82,1,2024-06-09,2,49.99,99.98,0.00,Credit Card,123 Lily St, Dallas, TX, United States
+18,9,8,2024-05-11,1,49.99,49.99,0.00,Credit Card,456 Iris St, Seattle, WA, United States
+19,177,4,2024-06-01,2,29.99,59.98,0.00,PayPal,789 Orchid St, Denver, CO, United States
+20,119,9,2024-05-06,3,39.99,119.97,0.00,Credit Card,987 Sunflower St, Houston, TX, United States
+21,65,3,2024-06-14,1,14.99,14.99,0.00,PayPal,123 Orchid St, Portland, OR, United States
+22,182,6,2024-05-30,2,34.99,69.98,0.00,Credit Card,456 Carnation St, Las Vegas, NV, United States
+23,47,10,2024-06-17,1,19.99,19.99,0.00,Credit Card,789 Lily St, Charlotte, NC, United States
+24,156,5,2024-05-04,3,25.99,77.97,0.00,PayPal,987 Rose St, Minneapolis, MN, United States
+25,75,1,2024-06-13,2,49.99,99.98,0.00,Credit Card,321 Tulip St, San Diego, CA, United States
+26,192,9,2024-05-26,1,39.99,39.99,0.00,Credit Card,654 Gerbera St, Orlando, FL, United States
+27,89,2,2024-06-08,3,9.99,29.97,0.00,PayPal,789 Lily of the Valley St, Atlanta, GA, United States
+28,178,7,2024-05-23,1,22.99,22.99,0.00,Credit Card,123 Orchid St, Detroit, MI, United States
+29,33,4,2024-06-15,2,29.99,59.98,0.00,PayPal,456 Daisy St, Seattle, WA, United States
+30,199,8,2024-05-01,3,49.99,149.97,0.00,Credit Card,789 Sunflower St, Phoenix, AZ, United States
+31,124,6,2024-06-11,1,34.99,34.99,0.00,Credit Card,123 Lily St, Dallas, TX, United States
+32,83,3,2024-05-17,2,14.99,29.98,0.00,PayPal,456 Iris St, Seattle, WA, United States
+33,114,5,2024-06-04,1,25.99,25.99,0.00,Credit Card,789 Orchid St, Denver, CO, United States
+34,169,1,2024-05-10,2,49.99,99.98,0.00,Credit Card,987 Sunflower St, Houston, TX, United States
+35,56,9,2024-06-16,3,39.99,119.97,0.00,PayPal,321 Bluebell St, Atlanta, GA, United States
+36,197,2,2024-05-20,1,9.99,9.99,0.00,Credit Card,654 Marigold St, Detroit, MI, United States
+37,98,10,2024-06-06,2,19.99,39.98,0.00,PayPal,789 Hyacinth St, Minneapolis, MN, United States
+38,7,6,2024-05-16,1,34.99,34.99,0.00,Credit Card,987 Pansy St, San Diego, CA, United States
+39,130,3,2024-06-02,2,14.99,29.98,0.00,Credit Card,321 Snapdragon St, Orlando, FL, United States
+40,176,5,2024-05-07,3,25.99,77.97,0.00,PayPal,654 Aster St, Miami, FL, United States
+41,93,8,2024-06-12,1,49.99,49.99,0.00,Credit Card,123 Carnation St, New York, NY, United States
+42,50,1,2024-05-18,2,49.99,99.98,0.00,PayPal,456 Lily St, Chicago, IL, United States
+43,168,7,2024-06-15,1,22.99,22.99,0.00,Credit Card,789 Rose St, Los Angeles, CA, United States
+44,102,4,2024-05-21,2,29.99,59.98,0.00,Credit Card,987 Tulip St, San Francisco, CA, United States
+45,180,9,2024-06-09,3,39.99,119.97,0.00,PayPal,321 Gerbera St, Dallas, TX, United States
+46,63,6,2024-05-26,1,34.99,34.99,0.00,PayPal,654 Marigold St, Detroit, MI, United States
+47,141,3,2024-06-13,2,14.99,29.98,0.00,Credit Card,123 Hyacinth St, Minneapolis, MN, United States
+48,37,5,2024-05-29,1,25.99,25.99,0.00,Credit Card,456 Daisy St, Seattle, WA, United States
+49,156,10,2024-06-04,2,19.99,39.98,0.00,PayPal,789 Lily of the Valley St, Atlanta, GA, United States
+50,25,2,2024-05-11,3,9.99,29.97,0.00,Credit Card,987 Orchid St, Portland, OR, United States
+51,118,8,2024-06-17,1,49.99,49.99,0.00,Credit Card,123 Lily St, Dallas, TX, United States
+52,86,1,2024-05-23,2,49.99,99.98,0.00,PayPal,456 Iris St, Seattle, WA, United States
+53,125,7,2024-06-10,1,22.99,22.99,0.00,Credit Card,789 Orchid St, Denver, CO, United States
+54,64,4,2024-05-14,2,29.99,59.98,0.00,Credit Card,987 Sunflower St, Houston, TX, United States
+55,194,9,2024-06-01,3,39.99,119.97,0.00,PayPal,321 Bluebell St, Atlanta, GA, United States
+56,2,6,2024-05-28,1,34.99,34.99,0.00,PayPal,654 Marigold St, Detroit, MI, United States
+57,177,3,2024-06-15,2,14.99,29.98,0.00,Credit Card,123 Carnation St, New York, NY, United States
+58,79,5,2024-05-20,1,25.99,25.99,0.00,Credit Card,456 Lily St, Chicago, IL, United States
+59,161,10,2024-06-06,2,19.99,39.98,0.00,PayPal,789 Rose St, Los Angeles, CA, United States
+60,46,2,2024-05-17,3,9.99,29.97,0.00,Credit Card,987 Tulip St, San Francisco, CA, United States
+61,104,4,2024-05-30,1,29.99,29.99,0.00,Credit Card,123 Daisy St, Seattle, WA, United States
+62,133,9,2024-06-16,2,39.99,79.98,0.00,PayPal,456 Gerbera St, Orlando, FL, United States
+63,49,6,2024-05-14,1,34.99,34.99,0.00,PayPal,789 Marigold St, Detroit, MI, United States
+64,177,3,2024-06-01,2,14.99,29.98,0.00,Credit Card,987 Hyacinth St, Minneapolis, MN, United States
+65,89,5,2024-05-08,1,25.99,25.99,0.00,Credit Card,321 Daisy St, Seattle, WA, United States
+66,143,10,2024-06-11,3,19.99,59.97,0.00,PayPal,654 Lily of the Valley St, Atlanta, GA, United States
+67,31,2,2024-05-25,1,9.99,9.99,0.00,Credit Card,123 Orchid St, Portland, OR, United States
+68,198,8,2024-06-03,2,49.99,99.98,0.00,PayPal,456 Carnation St, Las Vegas, NV, United States
+69,93,1,2024-05-09,3,49.99,149.97,0.00,Credit Card,789 Lily St, Charlotte, NC, United States
+70,13,7,2024-06-14,1,22.99,22.99,0.00,PayPal,987 Rose St, Minneapolis, MN, United States
+71,160,4,2024-05-26,2,29.99,59.98,0.00,Credit Card,321 Tulip St, San Diego, CA, United States
+72,70,9,2024-06-08,3,39.99,119.97,0.00,PayPal,654 Gerbera St, Orlando, FL, United States
+73,20,6,2024-05-16,1,34.99,34.99,0.00,PayPal,789 Marigold St, Detroit, MI, United States
+74,148,3,2024-06-03,2,14.99,29.98,0.00,Credit Card,123 Hyacinth St, Minneapolis, MN, United States
+75,62,5,2024-05-11,1,25.99,25.99,0.00,Credit Card,456 Daisy St, Seattle, WA, United States
+76,189,10,2024-06-07,2,19.99,39.98,0.00,PayPal,789 Lily of the Valley St, Atlanta, GA, United States
+77,39,2,2024-05-22,3,9.99,29.97,0.00,Credit Card,987 Orchid St, Portland, OR, United States
+78,192,8,2024-06-15,1,49.99,49.99,0.00,PayPal,123 Carnation St, New York, NY, United States
+79,79,1,2024-05-28,2,49.99,99.98,0.00,Credit Card,456 Lily St, Chicago, IL, United States
+80,162,7,2024-06-10,1,22.99,22.99,0.00,PayPal,789 Rose St, Los Angeles, CA, United States
+81,61,4,2024-05-13,1,29.99,29.99,0.00,Credit Card,123 Daisy St, Seattle, WA, United States
+82,126,9,2024-06-10,2,39.99,79.98,0.00,PayPal,456 Gerbera St, Orlando, FL, United States
+83,7,6,2024-05-09,1,34.99,34.99,0.00,PayPal,789 Marigold St, Detroit, MI, United States
+84,177,3,2024-06-02,2,14.99,29.98,0.00,Credit Card,987 Hyacinth St, Minneapolis, MN, United States
+85,95,5,2024-05-05,1,25.99,25.99,0.00,Credit Card,321 Daisy St, Seattle, WA, United States
+86,145,10,2024-06-09,3,19.99,59.97,0.00,PayPal,654 Lily of the Valley St, Atlanta, GA, United States
+87,34,2,2024-05-21,1,9.99,9.99,0.00,Credit Card,123 Orchid St, Portland, OR, United States
+88,197,8,2024-06-01,2,49.99,99.98,0.00,PayPal,456 Carnation St, Las Vegas, NV, United States
+89,93,1,2024-05-06,3,49.99,149.97,0.00,Credit Card,789 Lily St, Charlotte, NC, United States
+90,17,7,2024-06-13,1,22.99,22.99,0.00,PayPal,987 Rose St, Minneapolis, MN, United States
+91,163,4,2024-05-25,2,29.99,59.98,0.00,Credit Card,321 Tulip St, San Diego, CA, United States
+92,77,9,2024-06-07,3,39.99,119.97,0.00,PayPal,654 Gerbera St, Orlando, FL, United States
+93,24,6,2024-05-15,1,34.99,34.99,0.00,PayPal,789 Marigold St, Detroit, MI, United States
+94,147,3,2024-06-02,2,14.99,29.98,0.00,Credit Card,123 Hyacinth St, Minneapolis, MN, United States
+95,67,5,2024-05-09,1,25.99,25.99,0.00,Credit Card,456 Daisy St, Seattle, WA, United States
+96,192,10,2024-06-04,2,19.99,39.98,0.00,PayPal,789 Lily of the Valley St, Atlanta, GA, United States
+97,41,2,2024-05-20,3,9.99,29.97,0.00,Credit Card,987 Orchid St, Portland, OR, United States
+98,195,8,2024-06-14,1,49.99,49.99,0.00,PayPal,123 Carnation St, New York, NY, United States
+99,80,1,2024-05-27,2,49.99,99.98,0.00,Credit Card,456 Lily St, Chicago, IL, United States
+100,165,7,2024-06-11,1,22.99,22.99,0.00,PayPal,789 Rose St, Los Angeles, CA, United States
+101,57,4,2024-05-24,2,29.99,59.98,0.00,Credit Card,321 Tulip St, San Diego, CA, United States
+102,56,4,2024-05-28,1,29.99,29.99,0.00,Credit Card,123 Daisy St, Seattle, WA, United States
+103,111,9,2024-06-15,2,39.99,79.98,0.00,PayPal,456 Gerbera St, Orlando, FL, United States
+104,22,6,2024-05-19,1,34.99,34.99,0.00,PayPal,789 Marigold St, Detroit, MI, United States
+105,177,3,2024-06-03,2,14.99,29.98,0.00,Credit Card,987 Hyacinth St, Minneapolis, MN, United States
+106,101,5,2024-05-04,1,25.99,25.99,0.00,Credit Card,321 Daisy St, Seattle, WA, United States
+107,148,10,2024-06-12,3,19.99,59.97,0.00,PayPal,654 Lily of the Valley St, Atlanta, GA, United States
+108,40,2,2024-05-19,1,9.99,9.99,0.00,Credit Card,123 Orchid St, Portland, OR, United States
+109,199,8,2024-06-02,2,49.99,99.98,0.00,PayPal,456 Carnation St, Las Vegas, NV, United States
+110,93,1,2024-05-07,3,49.99,149.97,0.00,Credit Card,789 Lily St, Charlotte, NC, United States
+111,27,7,2024-06-11,1,22.99,22.99,0.00,PayPal,987 Rose St, Minneapolis, MN, United States
+112,167,4,2024-05-29,2,29.99,59.98,0.00,Credit Card,321 Tulip St, San Diego, CA, United States
+113,86,9,2024-06-06,3,39.99,119.97,0.00,PayPal,654 Gerbera St, Orlando, FL, United States
+114,28,6,2024-05-17,1,34.99,34.99,0.00,PayPal,789 Marigold St, Detroit, MI, United States
+115,146,3,2024-06-04,2,14.99,29.98,0.00,Credit Card,123 Hyacinth St, Minneapolis, MN, United States
+116,72,5,2024-05-07,1,25.99,25.99,0.00,Credit Card,456 Daisy St, Seattle, WA, United States
+117,197,10,2024-06-05,2,19.99,39.98,0.00,PayPal,789 Lily of the Valley St, Atlanta, GA, United States
+118,43,2,2024-05-18,3,9.99,29.97,0.00,Credit Card,987 Orchid St, Portland, OR, United States
+119,194,8,2024-06-17,1,49.99,49.99,0.00,PayPal,123 Carnation St, New York, NY, United States
+120,88,1,2024-05-30,2,49.99,99.98,0.00,Credit Card,456 Lily St, Chicago, IL, United States
+121,170,7,2024-06-14,1,22.99,22.99,0.00,PayPal,789 Rose St, Los Angeles, CA, United States
+122,64,4,2024-05-23,2,29.99,59.98,0.00,Credit Card,321 Tulip St, San Diego, CA, United States
+123,112,4,2024-05-31,1,29.99,29.99,0.00,Credit Card,123 Daisy St, Seattle, WA, United States
+124,125,9,2024-06-16,2,39.99,79.98,0.00,PayPal,456 Gerbera St, Orlando, FL, United States
+125,19,6,2024-05-18,1,34.99,34.99,0.00,PayPal,789 Marigold St, Detroit, MI, United States
+126,173,3,2024-06-04,2,14.99,29.98,0.00,Credit Card,987 Hyacinth St, Minneapolis, MN, United States
+127,99,5,2024-05-02,1,25.99,25.99,0.00,Credit Card,321 Daisy St, Seattle, WA, United States
+128,135,10,2024-06-10,3,19.99,59.97,0.00,PayPal,654 Lily of the Valley St, Atlanta, GA, United States
+129,33,2,2024-05-16,1,9.99,9.99,0.00,Credit Card,123 Orchid St, Portland, OR, United States
+130,194,8,2024-06-03,2,49.99,99.98,0.00,PayPal,456 Carnation St, Las Vegas, NV, United States
+131,89,1,2024-05-05,3,49.99,149.97,0.00,Credit Card,789 Lily St, Charlotte, NC, United States
+132,15,7,2024-06-09,1,22.99,22.99,0.00,PayPal,987 Rose St, Minneapolis, MN, United States
+133,184,4,2024-05-27,2,29.99,59.98,0.00,Credit Card,321 Tulip St, San Diego, CA, United States
+134,85,9,2024-06-04,3,39.99,119.97,0.00,PayPal,654 Gerbera St, Orlando, FL, United States
+135,36,6,2024-05-14,1,34.99,34.99,0.00,PayPal,789 Marigold St, Detroit, MI, United States
+136,116,3,2024-06-03,2,14.99,29.98,0.00,Credit Card,123 Hyacinth St, Minneapolis, MN, United States
+137,70,5,2024-05-06,1,25.99,25.99,0.00,Credit Card,456 Daisy St, Seattle, WA, United States
+138,193,10,2024-06-06,2,19.99,39.98,0.00,PayPal,789 Lily of the Valley St, Atlanta, GA, United States
+139,47,2,2024-05-17,3,9.99,29.97,0.00,Credit Card,987 Orchid St, Portland, OR, United States
+140,192,8,2024-06-18,1,49.99,49.99,0.00,PayPal,123 Carnation St, New York, NY, United States
+141,69,1,2024-05-28,2,49.99,99.98,0.00,Credit Card,456 Lily St, Chicago, IL, United States
+142,177,7,2024-06-15,1,22.99,22.99,0.00,PayPal,789 Rose St, Los Angeles, CA, United States
+143,77,4,2024-05-21,2,29.99,59.98,0.00,Credit Card,321 Tulip St, San Diego, CA, United States
+144,91,4,2024-05-24,1,29.99,29.99,0.00,Credit Card,123 Daisy St, Seattle, WA, United States
+145,126,9,2024-06-12,2,39.99,79.98,0.00,PayPal,456 Gerbera St, Orlando, FL, United States
+146,30,6,2024-05-16,1,34.99,34.99,0.00,PayPal,789 Marigold St, Detroit, MI, United States
+147,156,3,2024-06-05,2,14.99,29.98,0.00,Credit Card,987 Hyacinth St, Minneapolis, MN, United States
+148,110,5,2024-05-01,1,25.99,25.99,0.00,Credit Card,321 Daisy St, Seattle, WA, United States
+149,152,10,2024-06-08,3,19.99,59.97,0.00,PayPal,654 Lily of the Valley St, Atlanta, GA, United States
+150,50,2,2024-05-15,1,9.99,9.99,0.00,Credit Card,123 Orchid St, Portland, OR, United States
+151,191,8,2024-06-01,2,49.99,99.98,0.00,PayPal,456 Carnation St, Las Vegas, NV, United States
+152,78,1,2024-05-04,3,49.99,149.97,0.00,Credit Card,789 Lily St, Charlotte, NC, United States
+153,32,7,2024-06-10,1,22.99,22.99,0.00,PayPal,987 Rose St, Minneapolis, MN, United States
+154,126,4,2024-05-30,2,29.99,59.98,0.00,Credit Card,321 Tulip St, San Diego, CA, United States
+155,23,9,2024-06-07,3,39.99,119.97,0.00,PayPal,654 Gerbera St, Orlando, FL, United States
+156,48,6,2024-05-13,1,34.99,34.99,0.00,PayPal,789 Marigold St, Detroit, MI, United States
+157,174,3,2024-06-02,2,14.99,29.98,0.00,Credit Card,123 Hyacinth St, Minneapolis, MN, United States
+158,82,5,2024-05-05,1,25.99,25.99,0.00,Credit Card,456 Daisy St, Seattle, WA, United States
+159,179,10,2024-06-07,2,19.99,39.98,0.00,PayPal,789 Lily of the Valley St, Atlanta, GA, United States
+160,45,2,2024-05-16,3,9.99,29.97,0.00,Credit Card,987 Orchid St, Portland, OR, United States
+161,166,8,2024-06-19,1,49.99,49.99,0.00,PayPal,123 Carnation St, New York, NY, United States
+162,101,1,2024-05-29,2,49.99,99.98,0.00,Credit Card,456 Lily St, Chicago, IL, United States
+163,174,7,2024-06-18,1,22.99,22.99,0.00,PayPal,789 Rose St, Los Angeles, CA, United States
+164,168,4,2024-05-22,2,29.99,59.98,0.00,Credit Card,321 Tulip St, San Diego, CA, United States
+165,26,4,2024-05-26,1,29.99,29.99,0.00,Credit Card,123 Daisy St, Seattle, WA, United States
+166,85,9,2024-06-14,2,39.99,79.98,0.00,PayPal,456 Gerbera St, Orlando, FL, United States
+167,58,6,2024-05-20,1,34.99,34.99,0.00,PayPal,789 Marigold St, Detroit, MI, United States
+168,178,3,2024-06-06,2,14.99,29.98,0.00,Credit Card,987 Hyacinth St, Minneapolis, MN, United States
+169,67,5,2024-05-03,1,25.99,25.99,0.00,Credit Card,321 Daisy St, Seattle, WA, United States
+170,141,10,2024-06-11,3,19.99,59.97,0.00,PayPal,654 Lily of the Valley St, Atlanta, GA, United States
+171,169,2,2024-05-12,1,9.99,9.99,0.00,Credit Card,123 Orchid St, Portland, OR, United States
+172,62,8,2024-06-04,2,49.99,99.98,0.00,PayPal,456 Carnation St, Las Vegas, NV, United States
+173,128,1,2024-05-07,3,49.99,149.97,0.00,Credit Card,789 Lily St, Charlotte, NC, United States
+174,99,7,2024-06-12,1,22.99,22.99,0.00,PayPal,987 Rose St, Minneapolis, MN, United States
+175,84,4,2024-05-30,2,29.99,59.98,0.00,Credit Card,321 Tulip St, San Diego, CA, United States
+176,112,9,2024-06-09,3,39.99,119.97,0.00,PayPal,654 Gerbera St, Orlando, FL, United States
+177,114,6,2024-05-12,1,34.99,34.99,0.00,PayPal,789 Marigold St, Detroit, MI, United States
+178,106,3,2024-06-01,2,14.99,29.98,0.00,Credit Card,123 Hyacinth St, Minneapolis, MN, United States
+179,193,5,2024-05-04,1,25.99,25.99,0.00,Credit Card,456 Daisy St, Seattle, WA, United States
+180,175,10,2024-06-05,2,19.99,39.98,0.00,PayPal,789 Lily of the Valley St, Atlanta, GA, United States
+181,157,2,2024-05-14,3,9.99,29.97,0.00,Credit Card,987 Orchid St, Portland, OR, United States
+182,166,8,2024-06-20,1,49.99,49.99,0.00,PayPal,123 Carnation St, New York, NY, United States
+183,51,1,2024-05-30,2,49.99,99.98,0.00,Credit Card,456 Lily St, Chicago, IL, United States
+184,112,7,2024-06-19,1,22.99,22.99,0.00,PayPal,789 Rose St, Los Angeles, CA, United States
+185,195,4,2024-05-23,2,29.99,59.98,0.00,Credit Card,321 Tulip St, San Diego, CA, United States
+186,73,6,2024-05-18,1,34.99,34.99,0.00,PayPal,123 Daisy St, Seattle, WA, United States
+187,85,3,2024-06-08,2,14.99,29.98,0.00,Credit Card,456 Gerbera St, Orlando, FL, United States
+188,90,5,2024-05-02,1,25.99,25.99,0.00,Credit Card,789 Marigold St, Detroit, MI, United States
+189,98,10,2024-06-15,3,19.99,59.97,0.00,PayPal,987 Hyacinth St, Minneapolis, MN, United States
+190,140,2,2024-05-14,1,9.99,9.99,0.00,Credit Card,321 Daisy St, Seattle, WA, United States
+191,165,8,2024-06-03,2,49.99,99.98,0.00,PayPal,654 Lily of the Valley St, Atlanta, GA, United States
+192,79,1,2024-05-06,3,49.99,149.97,0.00,Credit Card,123 Orchid St, Portland, OR, United States
+193,167,7,2024-06-13,1,22.99,22.99,0.00,PayPal,456 Carnation St, Las Vegas, NV, United States
+194,68,4,2024-05-29,2,29.99,59.98,0.00,Credit Card,789 Lily St, Charlotte, NC, United States
+195,99,9,2024-06-10,3,39.99,119.97,0.00,PayPal,987 Rose St, Minneapolis, MN, United States
+196,111,6,2024-05-15,1,34.99,34.99,0.00,PayPal,321 Tulip St, San Diego, CA, United States
+197,119,3,2024-06-05,2,14.99,29.98,0.00,Credit Card,654 Gerbera St, Orlando, FL, United States
+198,121,5,2024-05-08,1,25.99,25.99,0.00,Credit Card,789 Marigold St, Detroit, MI, United States
+199,174,10,2024-06-09,2,19.99,39.98,0.00,PayPal,987 Hyacinth St, Minneapolis, MN, United States
+200,185,2,2024-05-17,3,9.99,29.97,0.00,Credit Card,123 Daisy St, Seattle, WA, United States

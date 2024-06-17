@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Product_Description,Product_Group_ID,Product_Manufacturer,Product_Cost_Price,Product_Selling_Price,Product_Weight,Product_Dimensions,Product_Availability
+1,Smartphone X1,"High-performance smartphone with advanced features",2,ABC Electronics,250,399,150g,"15.2 x 7.5 x 0.9 cm",In Stock
+2,Laptop Y3,"Powerful laptop for professional use",1,XYZ Computers,800,1299,2kg,"35.6 x 24.9 x 2.5 cm",In Stock
+3,Smart TV Z6,"Ultra HD smart TV with built-in streaming services",4,PQR Electronics,600,899,18kg,"120.6 x 70.2 x 9.8 cm",In Stock
+4,Bluetooth Speaker S2,"Portable speaker with wireless connectivity",3,LMN Audio,50,99,500g,"10 x 10 x 5 cm",In Stock
+5,Wireless Earphones E7,"True wireless earbuds with noise cancellation",3,LMN Audio,80,129,20g,"2 x 2 x 2 cm",In Stock
+6,Digital Camera C4,"High-resolution camera with advanced shooting modes",2,ABC Electronics,350,599,300g,"12.2 x 8.4 x 6.7 cm",In Stock
+7,Tablet T2,"10-inch tablet with powerful performance",1,XYZ Computers,300,499,500g,"24 x 16 x 1 cm",In Stock
+8,Smartwatch W5,"Fitness tracking smartwatch with heart rate monitor",2,ABC Electronics,150,249,50g,"4 x 4 x 1 cm",In Stock
+9,Headphones H8,"Over-ear headphones with immersive sound quality",3,LMN Audio,100,199,300g,"20 x 20 x 10 cm",In Stock
+10,Printer P1,"Wireless printer with scanning and copying capabilities",1,XYZ Computers,200,349,5kg,"40 x 30 x 20 cm",In Stock
+11,External Hard Drive D3,"1TB portable external hard drive for data storage",1,XYZ Computers,80,129,200g,"12 x 8 x 2 cm",In Stock
+12,Wireless Mouse M4,"Ergonomic wireless mouse with precise tracking",1,XYZ Computers,30,49,100g,"10 x 6 x 4 cm",In Stock
+13,Smart Home Hub H2,"Central control hub for home automation devices",4,PQR Electronics,100,179,150g,"8 x 8 x 2 cm",In Stock
+14,Portable Projector P5,"Compact projector for presentations and entertainment",4,PQR Electronics,200,349,1kg,"15 x 12 x 5 cm",In Stock
+15,Bluetooth Keyboard K3,"Wireless keyboard for convenient typing",1,XYZ Computers,50,89,300g,"35 x 15 x 2 cm",In Stock
+16,Gaming Console G7,"Next-gen gaming console for immersive gameplay",4,PQR Electronics,400,599,3kg,"40 x 30 x 10 cm",In Stock
+17,Wireless Router R1,"High-speed wireless router for seamless connectivity",1,XYZ Computers,60,99,500g,"15 x 10 x 3 cm",In Stock
+18,Smart Home Security System S3,"Advanced security system for home protection",4,PQR Electronics,250,399,200g,"12 x 8 x 3 cm",In Stock
+19,Monitor M5,"24-inch LED monitor with crisp visuals",1,XYZ Computers,150,249,5kg,"55 x 35 x 10 cm",In Stock
+20,Power Bank P2,"Portable power bank for charging devices on-the-go",2,ABC Electronics,40,79,250g,"12 x 7 x 2 cm",In Stock
+21,Wireless Speaker S8,"Portable speaker with built-in voice assistant",3,LMN Audio,70,119,400g,"12 x 10 x 8 cm",In Stock
+22,Smart Thermostat T4,"Wi-Fi enabled thermostat for efficient temperature control",4,PQR Electronics,120,199,150g,"8 x 8 x 3 cm",In Stock
+23,Bluetooth Earphones E9,"Wireless earphones with sweat resistance for sports",3,LMN Audio,60,99,25g,"3 x 3 x 2 cm",In Stock
+24,Desktop Computer D6,"High-performance desktop computer for professional use",1,XYZ Computers,1000,1499,10kg,"45 x 40 x 20 cm",In Stock
+25,Wireless Charger C5,"Qi-enabled wireless charger for convenient device charging",2,ABC Electronics,30,59,100g,"10 x 10 x 1 cm",In Stock
+26,Smart Doorbell D7,"Video doorbell with motion detection and two-way audio",4,PQR Electronics,80,149,150g,"10 x 5 x 2 cm",In Stock
+27,Wireless Keyboard and Mouse Set K4,"Combo set of wireless keyboard and mouse",1,XYZ Computers,40,69,400g,"45 x 15 x 3 cm",In Stock
+28,Bluetooth Car Kit B3,"Hands-free Bluetooth car kit for safe driving",2,ABC Electronics,50,89,50g,"8 x 8 x 1 cm",In Stock
+29,Wireless Gaming Mouse M6,"Gaming mouse with customizable buttons and RGB lighting",1,XYZ Computers,60,99,120g,"12 x 8 x 4 cm",In Stock
+30,Smart Plug P3,"Wi-Fi enabled smart plug for remote control of devices",4,PQR Electronics,20,39,80g,"5 x 5 x 5 cm",In Stock
+31,Wireless CCTV Camera C8,"Outdoor wireless CCTV camera for surveillance",4,PQR Electronics,90,159,300g,"10 x 10 x 8 cm",In Stock
+32,Bluetooth Headset H9,"Wireless headset with noise cancellation for crystal-clear calls",3,LMN Audio,90,149,50g,"5 x 5 x 2 cm",In Stock
+33,Portable SSD S4,"500GB portable SSD for fast and reliable storage",1,XYZ Computers,120,199,100g,"8 x 5 x 1 cm",In Stock
+34,Smart Lighting Kit L2,"Starter kit for smart lighting control in your home",4,PQR Electronics,70,119,200g,"10 x 10 x 3 cm",In Stock
+35,Gaming Keyboard G8,"Mechanical gaming keyboard with customizable backlighting",1,XYZ Computers,80,129,1kg,"45 x 15 x 5 cm",In Stock
+36,Bluetooth FM Transmitter F3,"Wireless FM transmitter for streaming music in your car",2,ABC Electronics,25,49,20g,"8 x 5 x 2 cm",In Stock
+37,Portable DVD Player D8,"Compact DVD player for entertainment on-the-go",1,XYZ Computers,50,89,500g,"20 x 15 x 4 cm",In Stock
+38,Smart Scale S5,"Digital smart scale with body composition analysis",4,PQR Electronics,40,79,1kg,"35 x 35 x 3 cm",In Stock
+39,Wireless Webcam W6,"HD webcam with built-in microphone for video conferencing",1,XYZ Computers,60,99,150g,"10 x 5 x 2 cm",In Stock
+40,Smart Coffee Maker C9,"Wi-Fi enabled coffee maker with programmable brewing",4,PQR Electronics,70,119,500g,"15 x 10 x 8 cm",In Stock
+41,Smart Door Lock L3,"Keyless entry door lock with fingerprint recognition",4,PQR Electronics,150,249,300g,"8 x 8 x 3 cm",In Stock
+42,Wireless Gaming Controller G9,"Gamepad controller for console and PC gaming",1,XYZ Computers,50,89,250g,"15 x 10 x 5 cm",In Stock
+43,Bluetooth Speaker S10,"Waterproof portable speaker with 360° sound",3,LMN Audio,90,149,500g,"12 x 12 x 8 cm",In Stock
+44,Smart Mirror M7,"Interactive mirror with built-in display and voice assistant",4,PQR Electronics,200,349,5kg,"60 x 80 x 2 cm",In Stock
+45,Wireless Keyboard K5,"Slim wireless keyboard for comfortable typing",1,XYZ Computers,40,69,350g,"40 x 12 x 2 cm",In Stock
+46,Smart Air Purifier A4,"Air purifier with HEPA filter for clean and fresh air",4,PQR Electronics,100,179,2kg,"25 x 25 x 10 cm",In Stock
+47,Wireless Gaming Headset H10,"Gaming headset with surround sound and detachable microphone",3,LMN Audio,80,129,350g,"20 x 18 x 10 cm",In Stock
+48,Portable Bluetooth Printer P4,"Pocket-sized printer for instant photo printing",1,XYZ Computers,80,129,200g,"10 x 8 x 5 cm",In Stock
+49,Smart Pet Feeder F4,"Automatic pet feeder with app control and portion settings",4,PQR Electronics,60,99,1kg,"30 x 20 x 15 cm",In Stock
+50,Wireless Barcode Scanner B4,"Handheld wireless barcode scanner for inventory management",1,XYZ Computers,70,119,150g,"15 x 10 x 5 cm",In Stock

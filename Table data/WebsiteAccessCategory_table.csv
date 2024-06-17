@@ -1,0 +1,201 @@
+Category_ID,Category_Name,Category_Description,Category_Parent,Category_Level,Category_Access_Type,Category_Region,Category_Website,Category_Access_Date,Category_Access_Count
+1,User Registration,Allows users to create new accounts on the website,,1,Registration,Global,example.com,2024-11-01,543
+2,User Login,Allows registered users to log into their accounts,,1,Login,Global,example.com,2024-11-01,789
+3,User Profile,Provides access to user-specific profile information,,1,Profile,Global,example.com,2024-11-01,321
+4,Product Search,Enables users to search for products on the website,,2,Search,Global,example.com,2024-11-01,1234
+5,Product Listing,Displays a list of products based on user search or category selection,4,2,Listing,Global,example.com,2024-11-01,5678
+6,Product Details,Shows detailed information about a specific product,5,3,Details,Global,example.com,2024-11-01,987
+7,Add to Cart,Allows users to add products to their shopping cart,5,3,Shopping Cart,Global,example.com,2024-11-01,234
+8,Checkout Process,Guides users through the process of purchasing selected products,7,4,Checkout,Global,example.com,2024-11-01,876
+9,Order History,Displays a history of past orders for the user,3,2,Order History,Global,example.com,2024-11-01,543
+10,Payment Processing,Handles secure payment transactions for purchases,8,4,Payment,Global,example.com,2024-11-01,789
+11,Customer Support,Provides access to customer support services,,1,Support,Global,example.com,2024-11-01,321
+12,FAQs,Displays frequently asked questions and their answers,11,2,Support,Global,example.com,2024-11-01,1234
+13,Blog,Allows users to access blog posts and articles on the website,,1,Content,Global,example.com,2024-11-01,5678
+14,News and Updates,Provides access to news and updates about the website and its products,13,2,Content,Global,example.com,2024-11-01,987
+15,About Us,Displays information about the website and its purpose,,1,Information,Global,example.com,2024-11-01,234
+16,Contact Us,Provides contact information and methods to reach customer support,,1,Information,Global,example.com,2024-11-01,876
+17,Terms and Conditions,Displays the terms and conditions for using the website,,1,Information,Global,example.com,2024-11-01,543
+18,Privacy Policy,Provides information about the website's privacy policy,,1,Information,Global,example.com,2024-11-01,789
+19,Account Settings,Allows users to manage their account settings and preferences,3,2,Profile,Global,example.com,2024-11-01,321
+20,Logout,Enables users to log out of their accounts,,1,Logout,Global,example.com,2024-11-01,1234
+21,Product Reviews,Allows users to read and write reviews for products on the website,5,3,Reviews,Global,example.com,2024-11-01,567
+22,Wishlist Management,Enables users to create and manage their wishlist of desired products,3,2,Wishlist,Global,example.com,2024-11-01,890
+23,Order Tracking,Provides the ability for users to track the status and shipment of their orders,9,3,Order Tracking,Global,example.com,2024-11-01,123
+24,Account Verification,Handles the verification process for user accounts on the website,1,1,Verification,Global,example.com,2024-11-01,456
+25,Password Reset,Allows users to reset their account passwords if forgotten or lost,2,1,Password Reset,Global,example.com,2024-11-01,789
+26,Product Comparison,Enables users to compare multiple products side by side,5,3,Comparison,Global,example.com,2024-11-01,321
+27,Shipping Options,Provides users with different shipping options and rates for their purchases,8,4,Shipping,Global,example.com,2024-11-01,654
+28,Promotions and Discounts,Displays information about ongoing promotions, discounts, and special offers,13,2,Promotions,Global,example.com,2024-11-01,987
+29,Order Cancellation,Allows users to cancel their placed orders before they are shipped,9,3,Order Management,Global,example.com,2024-11-01,234
+30,Return and Refund,Handles the process of returning purchased products and issuing refunds,9,3,Return and Refund,Global,example.com,2024-11-01,876
+31,Product Recommendations,Provides personalized product recommendations based on user preferences and browsing history,5,3,Recommendations,Global,example.com,2024-11-01,543
+32,User Reviews,Displays user-generated reviews and ratings for products on the website,13,2,Content,Global,example.com,2024-11-01,890
+33,Site Search,Enables users to search for specific content or information on the website,,1,Search,Global,example.com,2024-11-01,123
+34,Order Confirmation,Displays a confirmation message and details after a successful purchase,8,4,Order Confirmation,Global,example.com,2024-11-01,456
+35,Live Chat Support,Provides real-time chat-based customer support for users,,1,Support,Global,example.com,2024-11-01,789
+36,Product Availability,Displays information about the availability of products in stock,5,3,Availability,Global,example.com,2024-11-01,321
+37,Newsletter Subscription,Allows users to subscribe to the website's newsletter for updates and promotions,,1,Subscription,Global,example.com,2024-11-01,654
+38,User Ratings,Enables users to rate products and provide feedback through ratings,,2,Reviews,Global,example.com,2024-11-01,987
+39,Site Navigation,Provides intuitive navigation options to browse different sections and pages of the website,,1,Navigation,Global,example.com,2024-11-01,234
+40,Email Notifications,Manages the sending of automated email notifications to users for various actions and updates,,1,Notifications,Global,example.com,2024-11-01,876
+41,Product Recommendations,Provides personalized product recommendations based on user preferences and browsing history,5,3,Recommendations,Global,example.com,2024-11-01,543
+42,User Reviews,Displays user-generated reviews and ratings for products on the website,13,2,Content,Global,example.com,2024-11-01,890
+43,Site Search,Enables users to search for specific content or information on the website,,1,Search,Global,example.com,2024-11-01,123
+44,Order Confirmation,Displays a confirmation message and details after a successful purchase,8,4,Order Confirmation,Global,example.com,2024-11-01,456
+45,Live Chat Support,Provides real-time chat-based customer support for users,,1,Support,Global,example.com,2024-11-01,789
+46,Product Availability,Displays information about the availability of products in stock,5,3,Availability,Global,example.com,2024-11-01,321
+47,Newsletter Subscription,Allows users to subscribe to the website's newsletter for updates and promotions,,1,Subscription,Global,example.com,2024-11-01,654
+48,User Ratings,Enables users to rate products and provide feedback through ratings,,2,Reviews,Global,example.com,2024-11-01,987
+49,Site Navigation,Provides intuitive navigation options to browse different sections and pages of the website,,1,Navigation,Global,example.com,2024-11-01,234
+50,Email Notifications,Manages the sending of automated email notifications to users for various actions and updates,,1,Notifications,Global,example.com,2024-11-01,876
+51,User Permissions,Controls and manages user permissions and access levels on the website,,1,Permissions,Global,example.com,2024-11-01,543
+52,Product Recommendations,Provides personalized product recommendations based on user preferences and browsing history,5,3,Recommendations,Global,example.com,2024-11-01,890
+53,User Reviews,Displays user-generated reviews and ratings for products on the website,13,2,Content,Global,example.com,2024-11-01,123
+54,Site Search,Enables users to search for specific content or information on the website,,1,Search,Global,example.com,2024-11-01,456
+55,Order Confirmation,Displays a confirmation message and details after a successful purchase,8,4,Order Confirmation,Global,example.com,2024-11-01,789
+56,Live Chat Support,Provides real-time chat-based customer support for users,,1,Support,Global,example.com,2024-11-01,321
+57,Product Availability,Displays information about the availability of products in stock,5,3,Availability,Global,example.com,2024-11-01,654
+58,Newsletter Subscription,Allows users to subscribe to the website's newsletter for updates and promotions,,1,Subscription,Global,example.com,2024-11-01,987
+59,User Ratings,Enables users to rate products and provide feedback through ratings,,2,Reviews,Global,example.com,2024-11-01,234
+60,Site Navigation,Provides intuitive navigation options to browse different sections and pages of the website,,1,Navigation,Global,example.com,2024-11-01,876
+61,Order History,Displays a comprehensive history of user's past orders on the website,9,3,Order Management,Global,example.com,2024-11-01,543
+62,Product Recommendations,Provides personalized product recommendations based on user preferences and browsing history,5,3,Recommendations,Global,example.com,2024-11-01,890
+63,User Reviews,Displays user-generated reviews and ratings for products on the website,13,2,Content,Global,example.com,2024-11-01,123
+64,Site Search,Enables users to search for specific content or information on the website,,1,Search,Global,example.com,2024-11-01,456
+65,Order Confirmation,Displays a confirmation message and details after a successful purchase,8,4,Order Confirmation,Global,example.com,2024-11-01,789
+66,Live Chat Support,Provides real-time chat-based customer support for users,,1,Support,Global,example.com,2024-11-01,321
+67,Product Availability,Displays information about the availability of products in stock,5,3,Availability,Global,example.com,2024-11-01,654
+68,Newsletter Subscription,Allows users to subscribe to the website's newsletter for updates and promotions,,1,Subscription,Global,example.com,2024-11-01,987
+69,User Ratings,Enables users to rate products and provide feedback through ratings,,2,Reviews,Global,example.com,2024-11-01,234
+70,Site Navigation,Provides intuitive navigation options to browse different sections and pages of the website,,1,Navigation,Global,example.com,2024-11-01,876
+71,Email Notifications,Manages the sending of automated email notifications to users for various actions and updates,,1,Notifications,Global,example.com,2024-11-01,543
+72,User Permissions,Controls and manages user permissions and access levels on the website,,1,Permissions,Global,example.com,2024-11-01,890
+73,Product Recommendations,Provides personalized product recommendations based on user preferences and browsing history,5,3,Recommendations,Global,example.com,2024-11-01,123
+74,User Reviews,Displays user-generated reviews and ratings for products on the website,13,2,Content,Global,example.com,2024-11-01,456
+75,Site Search,Enables users to search for specific content or information on the website,,1,Search,Global,example.com,2024-11-01,789
+76,Order Confirmation,Displays a confirmation message and details after a successful purchase,8,4,Order Confirmation,Global,example.com,2024-11-01,321
+77,Live Chat Support,Provides real-time chat-based customer support for users,,1,Support,Global,example.com,2024-11-01,654
+78,Product Availability,Displays information about the availability of products in stock,5,3,Availability,Global,example.com,2024-11-01,987
+79,Newsletter Subscription,Allows users to subscribe to the website's newsletter for updates and promotions,,1,Subscription,Global,example.com,2024-11-01,234
+80,User Ratings,Enables users to rate products and provide feedback through ratings,,2,Reviews,Global,example.com,2024-11-01,876
+81,User Profile,Allows users to create and manage their profiles on the website,,1,Profile Management,Global,example.com,2024-11-01,543
+82,Product Recommendations,Provides personalized product recommendations based on user preferences and browsing history,5,3,Recommendations,Global,example.com,2024-11-01,890
+83,User Reviews,Displays user-generated reviews and ratings for products on the website,13,2,Content,Global,example.com,2024-11-01,123
+84,Site Search,Enables users to search for specific content or information on the website,,1,Search,Global,example.com,2024-11-01,456
+85,Order Confirmation,Displays a confirmation message and details after a successful purchase,8,4,Order Confirmation,Global,example.com,2024-11-01,789
+86,Live Chat Support,Provides real-time chat-based customer support for users,,1,Support,Global,example.com,2024-11-01,321
+87,Product Availability,Displays information about the availability of products in stock,5,3,Availability,Global,example.com,2024-11-01,654
+88,Newsletter Subscription,Allows users to subscribe to the website's newsletter for updates and promotions,,1,Subscription,Global,example.com,2024-11-01,987
+89,User Ratings,Enables users to rate products and provide feedback through ratings,,2,Reviews,Global,example.com,2024-11-01,234
+90,Site Navigation,Provides intuitive navigation options to browse different sections and pages of the website,,1,Navigation,Global,example.com,2024-11-01,876
+91,Email Notifications,Manages the sending of automated email notifications to users for various actions and updates,,1,Notifications,Global,example.com,2024-11-01,543
+92,User Permissions,Controls and manages user permissions and access levels on the website,,1,Permissions,Global,example.com,2024-11-01,890
+93,Product Recommendations,Provides personalized product recommendations based on user preferences and browsing history,5,3,Recommendations,Global,example.com,2024-11-01,123
+94,User Reviews,Displays user-generated reviews and ratings for products on the website,13,2,Content,Global,example.com,2024-11-01,456
+95,Site Search,Enables users to search for specific content or information on the website,,1,Search,Global,example.com,2024-11-01,789
+96,Order Confirmation,Displays a confirmation message and details after a successful purchase,8,4,Order Confirmation,Global,example.com,2024-11-01,321
+97,Live Chat Support,Provides real-time chat-based customer support for users,,1,Support,Global,example.com,2024-11-01,654
+98,Product Availability,Displays information about the availability of products in stock,5,3,Availability,Global,example.com,2024-11-01,987
+99,Newsletter Subscription,Allows users to subscribe to the website's newsletter for updates and promotions,,1,Subscription,Global,example.com,2024-11-01,234
+100,User Ratings,Enables users to rate products and provide feedback through ratings,,2,Reviews,Global,example.com,2024-11-01,876
+101,User Profile,Allows users to create and manage their profiles on the website,,1,Profile Management,Global,example.com,2024-11-01,543
+102,Product Recommendations,Provides personalized product recommendations based on user preferences and browsing history,5,3,Recommendations,Global,example.com,2024-11-01,890
+103,User Reviews,Displays user-generated reviews and ratings for products on the website,13,2,Content,Global,example.com,2024-11-01,123
+104,Site Search,Enables users to search for specific content or information on the website,,1,Search,Global,example.com,2024-11-01,456
+105,Order Confirmation,Displays a confirmation message and details after a successful purchase,8,4,Order Confirmation,Global,example.com,2024-11-01,789
+106,Live Chat Support,Provides real-time chat-based customer support for users,,1,Support,Global,example.com,2024-11-01,321
+107,Product Availability,Displays information about the availability of products in stock,5,3,Availability,Global,example.com,2024-11-01,654
+108,Newsletter Subscription,Allows users to subscribe to the website's newsletter for updates and promotions,,1,Subscription,Global,example.com,2024-11-01,987
+109,User Ratings,Enables users to rate products and provide feedback through ratings,,2,Reviews,Global,example.com,2024-11-01,234
+110,Site Navigation,Provides intuitive navigation options to browse different sections and pages of the website,,1,Navigation,Global,example.com,2024-11-01,876
+111,Email Notifications,Manages the sending of automated email notifications to users for various actions and updates,,1,Notifications,Global,example.com,2024-11-01,543
+112,User Permissions,Controls and manages user permissions and access levels on the website,,1,Permissions,Global,example.com,2024-11-01,890
+113,Product Recommendations,Provides personalized product recommendations based on user preferences and browsing history,5,3,Recommendations,Global,example.com,2024-11-01,123
+114,User Reviews,Displays user-generated reviews and ratings for products on the website,13,2,Content,Global,example.com,2024-11-01,456
+115,Site Search,Enables users to search for specific content or information on the website,,1,Search,Global,example.com,2024-11-01,789
+116,Order Confirmation,Displays a confirmation message and details after a successful purchase,8,4,Order Confirmation,Global,example.com,2024-11-01,321
+117,Live Chat Support,Provides real-time chat-based customer support for users,,1,Support,Global,example.com,2024-11-01,654
+118,Product Availability,Displays information about the availability of products in stock,5,3,Availability,Global,example.com,2024-11-01,987
+119,Newsletter Subscription,Allows users to subscribe to the website's newsletter for updates and promotions,,1,Subscription,Global,example.com,2024-11-01,234
+120,User Ratings,Enables users to rate products and provide feedback through ratings,,2,Reviews,Global,example.com,2024-11-01,876
+121,User Profile,Allows users to create and manage their profiles on the website,,1,Profile Management,Global,example.com,2024-11-01,543
+122,Product Recommendations,Provides personalized product recommendations based on user preferences and browsing history,5,3,Recommendations,Global,example.com,2024-11-01,890
+123,User Reviews,Displays user-generated reviews and ratings for products on the website,13,2,Content,Global,example.com,2024-11-01,123
+124,Site Search,Enables users to search for specific content or information on the website,,1,Search,Global,example.com,2024-11-01,456
+125,Order Confirmation,Displays a confirmation message and details after a successful purchase,8,4,Order Confirmation,Global,example.com,2024-11-01,789
+126,Live Chat Support,Provides real-time chat-based customer support for users,,1,Support,Global,example.com,2024-11-01,321
+127,Product Availability,Displays information about the availability of products in stock,5,3,Availability,Global,example.com,2024-11-01,654
+128,Newsletter Subscription,Allows users to subscribe to the website's newsletter for updates and promotions,,1,Subscription,Global,example.com,2024-11-01,987
+129,User Ratings,Enables users to rate products and provide feedback through ratings,,2,Reviews,Global,example.com,2024-11-01,234
+130,Site Navigation,Provides intuitive navigation options to browse different sections and pages of the website,,1,Navigation,Global,example.com,2024-11-01,876
+131,Email Notifications,Manages the sending of automated email notifications to users for various actions and updates,,1,Notifications,Global,example.com,2024-11-01,543
+132,User Permissions,Controls and manages user permissions and access levels on the website,,1,Permissions,Global,example.com,2024-11-01,890
+133,Product Recommendations,Provides personalized product recommendations based on user preferences and browsing history,5,3,Recommendations,Global,example.com,2024-11-01,123
+134,User Reviews,Displays user-generated reviews and ratings for products on the website,13,2,Content,Global,example.com,2024-11-01,456
+135,Site Search,Enables users to search for specific content or information on the website,,1,Search,Global,example.com,2024-11-01,789
+136,Order Confirmation,Displays a confirmation message and details after a successful purchase,8,4,Order Confirmation,Global,example.com,2024-11-01,321
+137,Live Chat Support,Provides real-time chat-based customer support for users,,1,Support,Global,example.com,2024-11-01,654
+138,Product Availability,Displays information about the availability of products in stock,5,3,Availability,Global,example.com,2024-11-01,987
+139,Newsletter Subscription,Allows users to subscribe to the website's newsletter for updates and promotions,,1,Subscription,Global,example.com,2024-11-01,234
+140,User Ratings,Enables users to rate products and provide feedback through ratings,,2,Reviews,Global,example.com,2024-11-01,876
+141,User Profile,Allows users to create and manage their profiles on the website,,1,Profile Management,Global,example.com,2024-11-01,543
+142,Product Recommendations,Provides personalized product recommendations based on user preferences and browsing history,5,3,Recommendations,Global,example.com,2024-11-01,890
+143,User Reviews,Displays user-generated reviews and ratings for products on the website,13,2,Content,Global,example.com,2024-11-01,123
+144,Site Search,Enables users to search for specific content or information on the website,,1,Search,Global,example.com,2024-11-01,456
+145,Order Confirmation,Displays a confirmation message and details after a successful purchase,8,4,Order Confirmation,Global,example.com,2024-11-01,789
+146,Live Chat Support,Provides real-time chat-based customer support for users,,1,Support,Global,example.com,2024-11-01,321
+147,Product Availability,Displays information about the availability of products in stock,5,3,Availability,Global,example.com,2024-11-01,654
+148,Newsletter Subscription,Allows users to subscribe to the website's newsletter for updates and promotions,,1,Subscription,Global,example.com,2024-11-01,987
+149,User Ratings,Enables users to rate products and provide feedback through ratings,,2,Reviews,Global,example.com,2024-11-01,234
+150,Site Navigation,Provides intuitive navigation options to browse different sections and pages of the website,,1,Navigation,Global,example.com,2024-11-01,876
+151,Email Notifications,Manages the sending of automated email notifications to users for various actions and updates,,1,Notifications,Global,example.com,2024-11-01,543
+152,User Permissions,Controls and manages user permissions and access levels on the website,,1,Permissions,Global,example.com,2024-11-01,890
+153,Product Recommendations,Provides personalized product recommendations based on user preferences and browsing history,5,3,Recommendations,Global,example.com,2024-11-01,123
+154,User Reviews,Displays user-generated reviews and ratings for products on the website,13,2,Content,Global,example.com,2024-11-01,456
+155,Site Search,Enables users to search for specific content or information on the website,,1,Search,Global,example.com,2024-11-01,789
+156,Order Confirmation,Displays a confirmation message and details after a successful purchase,8,4,Order Confirmation,Global,example.com,2024-11-01,321
+157,Live Chat Support,Provides real-time chat-based customer support for users,,1,Support,Global,example.com,2024-11-01,654
+158,Product Availability,Displays information about the availability of products in stock,5,3,Availability,Global,example.com,2024-11-01,987
+159,Newsletter Subscription,Allows users to subscribe to the website's newsletter for updates and promotions,,1,Subscription,Global,example.com,2024-11-01,234
+160,User Ratings,Enables users to rate products and provide feedback through ratings,,2,Reviews,Global,example.com,2024-11-01,876
+161,User Profile,Allows users to create and manage their profiles on the website,,1,Profile Management,Global,example.com,2024-11-01,543
+162,Product Recommendations,Provides personalized product recommendations based on user preferences and browsing history,5,3,Recommendations,Global,example.com,2024-11-01,890
+163,User Reviews,Displays user-generated reviews and ratings for products on the website,13,2,Content,Global,example.com,2024-11-01,123
+164,Site Search,Enables users to search for specific content or information on the website,,1,Search,Global,example.com,2024-11-01,456
+165,Order Confirmation,Displays a confirmation message and details after a successful purchase,8,4,Order Confirmation,Global,example.com,2024-11-01,789
+166,Live Chat Support,Provides real-time chat-based customer support for users,,1,Support,Global,example.com,2024-11-01,321
+167,Product Availability,Displays information about the availability of products in stock,5,3,Availability,Global,example.com,2024-11-01,654
+168,Newsletter Subscription,Allows users to subscribe to the website's newsletter for updates and promotions,,1,Subscription,Global,example.com,2024-11-01,987
+169,User Ratings,Enables users to rate products and provide feedback through ratings,,2,Reviews,Global,example.com,2024-11-01,234
+170,Site Navigation,Provides intuitive navigation options to browse different sections and pages of the website,,1,Navigation,Global,example.com,2024-11-01,876
+171,Email Notifications,Manages the sending of automated email notifications to users for various actions and updates,,1,Notifications,Global,example.com,2024-11-01,543
+172,User Permissions,Controls and manages user permissions and access levels on the website,,1,Permissions,Global,example.com,2024-11-01,890
+173,Product Recommendations,Provides personalized product recommendations based on user preferences and browsing history,5,3,Recommendations,Global,example.com,2024-11-01,123
+174,User Reviews,Displays user-generated reviews and ratings for products on the website,13,2,Content,Global,example.com,2024-11-01,456
+175,Site Search,Enables users to search for specific content or information on the website,,1,Search,Global,example.com,2024-11-01,789
+176,Order Confirmation,Displays a confirmation message and details after a successful purchase,8,4,Order Confirmation,Global,example.com,2024-11-01,321
+177,Live Chat Support,Provides real-time chat-based customer support for users,,1,Support,Global,example.com,2024-11-01,654
+178,Product Availability,Displays information about the availability of products in stock,5,3,Availability,Global,example.com,2024-11-01,987
+179,Newsletter Subscription,Allows users to subscribe to the website's newsletter for updates and promotions,,1,Subscription,Global,example.com,2024-11-01,234
+180,User Ratings,Enables users to rate products and provide feedback through ratings,,2,Reviews,Global,example.com,2024-11-01,876
+181,User Profile,Allows users to create and manage their profiles on the website,,1,Profile Management,Global,example.com,2024-11-01,543
+182,Product Recommendations,Provides personalized product recommendations based on user preferences and browsing history,5,3,Recommendations,Global,example.com,2024-11-01,890
+183,User Reviews,Displays user-generated reviews and ratings for products on the website,13,2,Content,Global,example.com,2024-11-01,123
+184,Site Search,Enables users to search for specific content or information on the website,,1,Search,Global,example.com,2024-11-01,456
+185,Order Confirmation,Displays a confirmation message and details after a successful purchase,8,4,Order Confirmation,Global,example.com,2024-11-01,789
+186,Live Chat Support,Provides real-time chat-based customer support for users,,1,Support,Global,example.com,2024-11-01,321
+187,Product Availability,Displays information about the availability of products in stock,5,3,Availability,Global,example.com,2024-11-01,654
+188,Newsletter Subscription,Allows users to subscribe to the website's newsletter for updates and promotions,,1,Subscription,Global,example.com,2024-11-01,987
+189,User Ratings,Enables users to rate products and provide feedback through ratings,,2,Reviews,Global,example.com,2024-11-01,234
+190,Site Navigation,Provides intuitive navigation options to browse different sections and pages of the website,,1,Navigation,Global,example.com,2024-11-01,876
+191,Email Notifications,Manages the sending of automated email notifications to users for various actions and updates,,1,Notifications,Global,example.com,2024-11-01,543
+192,User Permissions,Controls and manages user permissions and access levels on the website,,1,Permissions,Global,example.com,2024-11-01,890
+193,Product Recommendations,Provides personalized product recommendations based on user preferences and browsing history,5,3,Recommendations,Global,example.com,2024-11-01,123
+194,User Reviews,Displays user-generated reviews and ratings for products on the website,13,2,Content,Global,example.com,2024-11-01,456
+195,Site Search,Enables users to search for specific content or information on the website,,1,Search,Global,example.com,2024-11-01,789
+196,Order Confirmation,Displays a confirmation message and details after a successful purchase,8,4,Order Confirmation,Global,example.com,2024-11-01,321
+197,Live Chat Support,Provides real-time chat-based customer support for users,,1,Support,Global,example.com,2024-11-01,654
+198,Product Availability,Displays information about the availability of products in stock,5,3,Availability,Global,example.com,2024-11-01,987
+199,Newsletter Subscription,Allows users to subscribe to the website's newsletter for updates and promotions,,1,Subscription,Global,example.com,2024-11-01,234
+200,User Ratings,Enables users to rate products and provide feedback through ratings,,2,Reviews,Global,example.com,2024-11-01,876
