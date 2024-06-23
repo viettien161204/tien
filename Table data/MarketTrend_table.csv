@@ -1,0 +1,101 @@
+Trend_ID,Trend_Name,Trend_Description,Trend_Start_Date,Trend_End_Date,Trend_Category,Trend_Region,Trend_Impact,Trend_Source,Trend_Website,Product_Group_ID
+1,Sustainable Packaging,Increased consumer demand for eco-friendly packaging solutions,2022-04-01,2024-03-31,Sustainability,Global,High,Industry Reports,www.sustainablepackaging.org,1
+2,Personalized Nutrition,Growing trend towards personalized diet and nutrition products,2021-07-01,2023-06-30,Health & Wellness,North America,Medium,Market Research,www.personalizednutrition.com,2
+3,AI-Powered Home Automation,Rising adoption of AI-based smart home devices and systems,2022-01-01,2024-12-31,Technology,Europe,High,Industry Publications,www.aihomeautomation.net,3
+4,Organic Farming Practices,Increased consumer preference for organically grown produce,2021-10-01,2024-09-30,Sustainability,South America,High,Government Reports,www.organicfarming.gov,4
+5,Blockchain-Based Supply Chain,Emerging trend of blockchain technology in supply chain management,2022-03-01,2024-02-28,Technology,Asia,Medium,Industry Analysts,www.blockchainsupply.com,5
+6,Wearable Fitness Trackers,Growing popularity of wearable devices for health and fitness monitoring,2021-09-01,2023-08-31,Health & Wellness,North America,High,Market Research,www.wearablefitness.org,6
+7,Augmented Reality in Retail,Increasing use of AR technology for enhanced customer experience,2022-02-01,2024-01-31,Technology,Europe,High,Industry Reports,www.arretail.com,7
+8,Sustainable Transportation,Rising demand for eco-friendly and efficient modes of transportation,2021-11-01,2024-10-31,Sustainability,Global,High,Government Reports,www.sustainabletransport.gov,8
+9,Personalized Healthcare,Advancements in personalized medicine and targeted treatments,2022-05-01,2024-04-30,Health & Wellness,Asia,High,Industry Publications,www.personalizedhealth.com,9
+10,Cloud-Based Business Solutions,Increased adoption of cloud-based software and services by businesses,2021-12-01,2023-11-30,Technology,North America,Medium,Market Research,www.cloudbusiness.org,10
+11,Plant-Based Diets,Growing popularity of plant-based food and beverage products,2022-06-01,2024-05-31,Health & Wellness,Global,High,Industry Reports,www.plantbaseddiets.org,2
+12,Smart Home Security,Increased adoption of connected home security systems and devices,2021-08-01,2023-07-31,Technology,North America,Medium,Market Research,www.smarthomesecurity.com,3
+13,Ethical Consumerism,Rising consumer demand for products from socially responsible brands,2022-09-01,2024-08-31,Sustainability,Europe,High,Industry Publications,www.ethicalconsumerism.net,1
+14,5G Connectivity,Rollout and adoption of 5G technology for faster mobile internet,2021-11-01,2023-10-31,Technology,Asia,High,Industry Analysts,www.5gconnectivity.org,3
+15,Clean Beauty Products,Increased consumer interest in natural and toxin-free cosmetics,2022-03-01,2024-02-28,Health & Wellness,North America,Medium,Market Research,www.cleanbeauty.com,9
+16,Drone Technology,Growing applications of drones in various industries,2021-09-01,2023-08-31,Technology,Global,High,Industry Reports,www.dronetechnology.net,8
+17,Vertical Farming,Advancement in urban agriculture and indoor farming techniques,2022-01-01,2024-12-31,Sustainability,Europe,High,Government Reports,www.verticalfarming.gov,4
+18,Subscription-Based Services,Increasing popularity of subscription-based business models,2021-12-01,2023-11-30,Technology,North America,Medium,Industry Publications,www.subscriptionbusiness.org,10
+19,Biometrics in Security,Growing use of biometric technologies for enhanced security,2022-04-01,2024-03-31,Technology,Asia,High,Industry Analysts,www.biometricsecurity.com,3
+20,Mindfulness and Meditation,Rising interest in mindfulness practices and meditation apps,2021-10-01,2023-09-30,Health & Wellness,Global,Medium,Market Research,www.mindfulnessmeditation.org,6
+21,Eco-Friendly Fashion,Increased consumer demand for sustainable and ethical fashion,2022-05-01,2024-04-30,Sustainability,Europe,High,Industry Reports,www.ecofashion.net,1
+22,Smart Agriculture,Adoption of advanced technologies in agriculture and farming,2021-11-01,2023-10-31,Technology,South America,High,Government Reports,www.smartagriculture.gov,4
+23,Digital Therapeutics,Emergence of digital health solutions for disease management,2022-02-01,2024-01-31,Health & Wellness,North America,High,Industry Publications,www.digitaltx.org,9
+24,Esports and Gaming,Growing popularity and professionalization of competitive gaming,2021-08-01,2023-07-31,Technology,Global,High,Market Research,www.esportsandgaming.com,7
+25,Circular Economy,Increased focus on sustainable production and consumption models,2022-07-01,2024-06-30,Sustainability,Europe,High,Industry Analysts,www.circulareconomy.net,1
+26,Telehealth Services,Expansion of virtual healthcare and remote patient monitoring,2021-09-01,2023-08-31,Health & Wellness,North America,High,Industry Reports,www.telehealth.org,9
+27,Autonomous Vehicles,Advancements in self-driving car technology and adoption,2022-01-01,2024-12-31,Technology,Global,High,Government Reports,www.autonomousvehicles.gov,8
+28,Personalized Beauty,Increased customization and personalization in the beauty industry,2021-12-01,2023-11-30,Health & Wellness,Asia,Medium,Market Research,www.personalizedbeauty.com,9
+29,Internet of Things (IoT),Proliferation of connected devices and smart home/city applications,2022-03-01,2024-02-28,Technology,Global,High,Industry Publications,www.iotdevices.org,3
+30,Sustainable Tourism,Growing demand for eco-friendly and responsible travel experiences,2021-10-01,2023-09-30,Sustainability,Global,High,Industry Analysts,www.sustainabletourism.net,8
+31,Alternative Protein Sources,Increasing popularity of plant-based and lab-grown meat alternatives,2022-02-01,2024-01-31,Health & Wellness,Global,High,Industry Reports,www.alternativeproteins.org,2
+32,Voice-Controlled Devices,Widespread adoption of voice assistants and smart speakers,2021-07-01,2023-06-30,Technology,North America,High,Market Research,www.voicedevices.com,3
+33,Sustainable Textiles,Growing demand for eco-friendly and ethically-produced fabrics,2022-04-01,2024-03-31,Sustainability,Europe,High,Industry Publications,www.sustainabletextiles.net,1
+34,Wellness Tourism,Increased consumer interest in travel focused on health and wellbeing,2021-11-01,2023-10-31,Health & Wellness,Global,High,Industry Analysts,www.wellnesstourism.org,8
+35,Augmented Reality Gaming,Advancements in AR technology for immersive gaming experiences,2022-01-01,2024-12-31,Technology,Asia,High,Market Research,www.argaming.com,7
+36,Sustainable Investing,Rising interest in ESG (environmental, social, governance) investing,2021-09-01,2023-08-31,Sustainability,North America,High,Government Reports,www.sustainableinvesting.gov,10
+37,Telemedicine Services,Increased adoption of remote healthcare consultations and treatments,2022-05-01,2024-04-30,Health & Wellness,Europe,High,Industry Reports,www.telemedicine.org,9
+38,Robotics in Manufacturing,Advancements in industrial automation and robot technology,2021-12-01,2023-11-30,Technology,Asia,High,Industry Publications,www.roboticsmfg.com,5
+39,Clean Energy Solutions,Growing demand for renewable energy sources and green technologies,2022-03-01,2024-02-28,Sustainability,Global,High,Industry Analysts,www.cleanenergy.org,8
+40,Personalized Education,Emergence of adaptive and personalized learning platforms,2021-08-01,2023-07-31,Technology,North America,Medium,Market Research,www.personalizedlearning.com,10
+41,Sustainable Agriculture,Adoption of eco-friendly farming practices and precision agriculture,2022-06-01,2024-05-31,Sustainability,South America,High,Government Reports,www.sustainableag.gov,4
+42,Digital Healthcare Wearables,Increased use of wearable devices for health monitoring and tracking,2021-09-01,2023-08-31,Health & Wellness,Global,High,Industry Reports,www.digitalwearables.org,6
+43,Smart City Infrastructure,Development of intelligent and connected urban infrastructure,2022-01-01,2024-12-31,Technology,Europe,High,Industry Publications,www.smartcities.net,8
+44,Personalized Nutrition Coaching,Growing demand for tailored dietary and lifestyle recommendations,2021-11-01,2023-10-31,Health & Wellness,North America,High,Market Research,www.personalizednutrition.org,2
+45,Sustainable Packaging Innovations,Advancements in recyclable, biodegradable, and compostable packaging,2022-04-01,2024-03-31,Sustainability,Global,High,Industry Analysts,www.sustainablepack.com,1
+46,Telehealth for Mental Health,Increased access to virtual mental health services and therapies,2021-10-01,2023-09-30,Health & Wellness,North America,High,Government Reports,www.telementalheath.gov,9
+47,Blockchain in Supply Chain,Implementation of blockchain technology for supply chain traceability,2022-02-01,2024-01-31,Technology,Asia,High,Industry Reports,www.blockchainsupply.com,5
+48,Personalized Skincare,Customized beauty and skincare products based on individual needs,2021-07-01,2023-06-30,Health & Wellness,Europe,Medium,Market Research,www.personalizedskincare.com,9
+49,Autonomous Drones,Advancements in unmanned aerial vehicle (UAV) technology,2022-05-01,2024-04-30,Technology,Global,High,Industry Publications,www.autonomousdrones.org,8
+50,Sustainable Transportation Alternatives,Increased adoption of electric vehicles, bike-sharing, and public transit,2021-12-01,2023-11-30,Sustainability,North America,High,Industry Analysts,www.sustainabletransport.net,8
+51,Plant-Based Meat Alternatives,Growing popularity of plant-based meat substitutes,2022-06-01,2024-05-31,Health & Wellness,Global,High,Industry Reports,www.plantbasedmeats.org,2
+52,Robotic Process Automation,Adoption of software bots to automate business processes,2021-08-01,2023-07-31,Technology,Europe,High,Industry Publications,www.roboticautomation.com,5
+53,Sustainable Fashion Initiatives,Increased focus on ethical and eco-friendly clothing production,2022-01-01,2024-12-31,Sustainability,North America,High,Market Research,www.sustainablefashion.net,1
+54,Home Fitness Equipment Boom,Rising demand for at-home workout equipment and accessories,2021-09-01,2023-08-31,Health & Wellness,Global,High,Industry Analysts,www.homefitness.org,6
+55,Artificial Intelligence in Healthcare,Advancements in AI-powered diagnostics and treatment,2022-02-01,2024-01-31,Technology,Asia,High,Government Reports,www.aihealthcare.gov,9
+56,Sustainable Tourism Practices,Increased focus on eco-friendly and responsible travel,2021-11-01,2023-10-31,Sustainability,Europe,High,Industry Reports,www.sustainabletourism.net,8
+57,Smart Home Technology,Widespread adoption of connected devices for home automation,2022-03-01,2024-02-28,Technology,North America,High,Market Research,www.smarthome.com,3
+58,Personalized Skincare Devices,Emergence of at-home devices for personalized skin analysis and treatment,2021-07-01,2023-06-30,Health & Wellness,Global,High,Industry Publications,www.personalizedskin.org,6
+59,Sustainable Packaging Alternatives,Development of compostable, biodegradable, and refillable packaging,2022-04-01,2024-03-31,Sustainability,South America,High,Industry Analysts,www.sustainablepack.net,1
+60,Telehealth for Chronic Conditions,Increased use of remote monitoring and virtual care for chronic diseases,2021-10-01,2023-09-30,Health & Wellness,North America,High,Government Reports,www.telehealthchronic.gov,9
+61,Blockchain in Supply Chain Traceability,Implementation of blockchain to track the origin and movement of goods,2022-05-01,2024-04-30,Technology,Asia,High,Industry Reports,www.blockchainsupply.com,5
+62,Personalized Nutrition Supplements,Customized vitamin and supplement formulations based on individual needs,2021-12-01,2023-11-30,Health & Wellness,Europe,High,Market Research,www.personalizednutrition.org,2
+63,Smart City Infrastructure Development,Investments in connected and intelligent urban infrastructure,2022-01-01,2024-12-31,Technology,Europe,High,Industry Publications,www.smartcities.net,8
+64,Sustainable Agriculture Practices,Adoption of precision farming, regenerative techniques, and vertical farming,2021-08-01,2023-07-31,Sustainability,South America,High,Industry Analysts,www.sustainableag.gov,4
+65,Digital Healthcare Wearables Adoption,Increased use of connected devices for health monitoring and fitness tracking,2022-06-01,2024-05-31,Health & Wellness,Global,High,Government Reports,www.digitalwearables.org,6
+66,Autonomous Vehicles in Logistics,Implementation of self-driving trucks and delivery robots,2021-09-01,2023-08-31,Technology,North America,High,Industry Reports,www.autonomousvehicles.com,5
+67,Sustainable Finance Initiatives,Growing investment in green bonds, ESG funds, and impact investing,2022-02-01,2024-01-31,Sustainability,Europe,High,Market Research,www.sustainablefinance.org,10
+68,Virtual and Augmented Reality in Retail,Use of immersive technologies for e-commerce and in-store experiences,2021-11-01,2023-10-31,Technology,Asia,High,Industry Publications,www.vrar-retail.com,7
+69,Personalized Education Technology,Advancements in adaptive learning platforms and AI-powered tutoring,2022-03-01,2024-02-28,Technology,North America,High,Industry Analysts,www.personalizedlearning.com,10
+70,Sustainable Transportation Alternatives,Increased adoption of electric vehicles, bike-sharing, and public transit,2021-07-01,2023-06-30,Sustainability,North America,High,Government Reports,www.sustainabletransport.net,8
+71,Telehealth for Mental Health Services,Increased use of virtual care for mental health counseling and therapy,2022-04-01,2024-03-31,Health & Wellness,North America,High,Industry Reports,www.tele-mentalhealth.org,9
+72,Sustainable Packaging for E-commerce,Development of recyclable and biodegradable packaging for online orders,2021-10-01,2023-09-30,Sustainability,Europe,High,Market Research,www.sustainableecommerce.net,1
+73,Artificial Intelligence in Financial Services,Advancements in AI-powered fraud detection and investment management,2022-05-01,2024-04-30,Technology,Asia,High,Industry Publications,www.aifinance.com,10
+74,Smart Home Energy Management Systems,Integration of connected devices for optimizing home energy usage,2021-12-01,2023-11-30,Technology,North America,High,Industry Analysts,www.smarthomeenergy.org,3
+75,Personalized Beauty Experiences,Use of AI and AR for customized product recommendations and virtual try-ons,2022-01-01,2024-12-31,Health & Wellness,Europe,High,Government Reports,www.personalizedbeauty.com,6
+76,Sustainable Food Packaging Innovations,Development of compostable, edible, and zero-waste food packaging,2021-08-01,2023-07-31,Sustainability,South America,High,Industry Reports,www.sustainablefoodpack.net,1
+77,Augmented Reality in Retail and Commerce,Use of AR for virtual product visualization and enhanced shopping experiences,2022-06-01,2024-05-31,Technology,North America,High,Market Research,www.arretail.com,7
+78,Personalized Fitness and Wellness Apps,AI-powered apps that provide tailored workout plans and health recommendations,2021-09-01,2023-08-31,Health & Wellness,Global,High,Industry Publications,www.personalizedwellness.org,6
+79,Sustainable Fashion Circular Economy,Adoption of resale, rental, and recycling models in the fashion industry,2022-02-01,2024-01-31,Sustainability,Europe,High,Industry Analysts,www.fashioncircular.net,1
+80,Smart City Mobility Solutions,Integration of connected and autonomous vehicles, bike-sharing, and public transit,2021-11-01,2023-10-31,Technology,Asia,High,Government Reports,www.smartmobility.gov,8
+81,Personalized Education Platforms,Advancements in AI-powered adaptive learning and personalized curriculum,2022-03-01,2024-02-28,Technology,North America,High,Industry Reports,www.personalizedlearning.com,10
+82,Sustainable Textiles and Fabrics,Development of eco-friendly materials, such as recycled and biodegradable fibers,2021-07-01,2023-06-30,Sustainability,North America,High,Market Research,www.sustainabletextiles.org,1
+83,Smart Home Appliances and Devices,Increased adoption of connected and energy-efficient home appliances,2022-04-01,2024-03-31,Technology,Europe,High,Industry Publications,www.smarthomedevices.com,3
+84,Personalized Nutrition and Meal Kits,Customized meal plans and subscription services based on individual dietary needs,2021-10-01,2023-09-30,Health & Wellness,North America,High,Industry Analysts,www.personalizednutrition.net,2
+85,Sustainable Agriculture Technology,Advancements in precision farming, vertical farming, and regenerative techniques,2022-05-01,2024-04-30,Sustainability,South America,High,Government Reports,www.sustainableagriculture.gov,4
+86,Smart Home Energy Storage Solutions,Integration of battery storage systems for renewable energy and grid optimization,2021-12-01,2023-11-30,Technology,North America,High,Industry Reports,www.smarthomeenergy.org,3
+87,Personalized Skincare and Cosmetics,Customized formulations and personalized product recommendations,2022-01-01,2024-12-31,Health & Wellness,Europe,High,Market Research,www.personalizedbeauty.com,6
+88,Sustainable Tourism and Ecotourism,Increased focus on eco-friendly travel experiences and responsible tourism practices,2021-08-01,2023-07-31,Sustainability,Europe,High,Industry Publications,www.sustainabletourism.net,8
+89,Smart Home Voice Assistants,Widespread adoption of voice-controlled devices for home automation and control,2022-06-01,2024-05-31,Technology,North America,High,Industry Analysts,www.smarthomevoice.com,3
+90,Personalized Home Fitness Solutions,Customized exercise equipment, virtual training, and fitness tracking,2021-09-01,2023-08-31,Health & Wellness,Global,High,Government Reports,www.personalizedfitness.org,6
+91,Sustainable Packaging for Food and Beverage,Development of compostable, recyclable, and biodegradable packaging for food and drinks,2022-02-01,2024-01-31,Sustainability,North America,High,Industry Reports,www.sustainablefoodpack.com,1
+92,Smart Home Security and Surveillance,Integration of connected cameras, sensors, and smart locks for home security,2021-11-01,2023-10-31,Technology,Europe,High,Market Research,www.smarthomesecurity.net,3
+93,Personalized Travel and Tourism Experiences,Customized itineraries, recommendations, and services based on individual preferences,2022-03-01,2024-02-28,Health & Wellness,Global,High,Industry Publications,www.personalizedtravel.com,8
+94,Sustainable Urban Mobility Solutions,Increased use of electric vehicles, bike-sharing, and public transit in cities,2021-07-01,2023-06-30,Sustainability,Asia,High,Industry Analysts,www.sustainablemobility.gov,8
+95,Smart Home Energy Efficiency,Advancements in connected devices and automation for optimizing home energy usage,2022-04-01,2024-03-31,Technology,North America,High,Government Reports,www.smarthomeenergy.org,3
+96,Personalized Education for Adult Learners,Customized online courses, training programs, and career development plans,2021-10-01,2023-09-30,Technology,North America,High,Market Research,www.personalizedlearning.com,10
+97,Sustainable Fashion Rental and Resale,Increased adoption of apparel rental and resale platforms for circular fashion,2022-05-01,2024-04-30,Sustainability,Europe,High,Industry Publications,www.fashioncircular.net,1
+98,Smart Home Water Conservation,Integration of water-efficient devices and automated systems for water management,2021-12-01,2023-11-30,Technology,North America,High,Industry Analysts,www.smarthomewater.org,3
+99,Personalized Healthcare and Telemedicine,Increased use of virtual care, remote monitoring, and personalized treatment plans,2022-01-01,2024-12-31,Health & Wellness,Global,High,Government Reports,www.personalizedhealth.org,9
+100,Sustainable Agriculture and Food Production,Advancements in vertical farming, precision farming, and regenerative agriculture,2021-08-01,2023-07-31,Sustainability,South America,High,Industry Reports,www.sustainableagriculture.gov,4

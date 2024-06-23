@@ -1,201 +1,201 @@
-Customer_ID,Customer_Name,Customer_Email,Customer_Phone,Customer_Address,Customer_City,Customer_State,Customer_Country,Customer_Segment,Customer_Registration_Date
-1,John Smith,johnsmith@example.com,555-1234,123 Main St,Los Angeles,CA,United States,Regular,2023-02-10
-2,Jane Doe,janedoe@example.com,555-5678,456 Elm St,New York,NY,United States,Regular,2022-09-05
-3,Michael Johnson,michaeljohnson@example.com,555-9012,789 Oak St,Chicago,IL,United States,Regular,2024-03-20
-4,Sarah Thompson,sarahthompson@example.com,555-3456,321 Pine St,Miami,FL,United States,Regular,2023-11-15
-5,David Wilson,davidwilson@example.com,555-7890,654 Cedar St,San Francisco,CA,United States,Regular,2021-07-01
-6,Emily Davis,emilydavis@example.com,555-2345,987 Maple St,Boston,MA,United States,Regular,2022-12-18
-7,Matthew Anderson,matthewanderson@example.com,555-6789,654 Birch St,Dallas,TX,United States,Regular,2023-06-22
-8,Olivia Harris,oliviaharris@example.com,555-0123,321 Walnut St,Seattle,WA,United States,Regular,2024-02-05
-9,Aiden Martinez,aidenmartinez@example.com,555-4567,789 Cherry St,Phoenix,AZ,United States,Regular,2022-04-09
-10,Sophia Lee,sophialee@example.com,555-8901,123 Plum St,Denver,CO,United States,Regular,2023-09-14
-11,Noah Clark,noahclark@example.com,555-2345,456 Peach St,Houston,TX,United States,Regular,2022-01-08
-12,Emma Baker,emmabaker@example.com,555-6789,789 Lemon St,Atlanta,GA,United States,Regular,2023-04-17
-13,Liam Green,liamgreen@example.com,555-0123,654 Grape St,Detroit,MI,United States,Regular,2021-11-25
-14,Isabella Hall,isabellahall@example.com,555-4567,987 Berry St,Portland,OR,United States,Regular,2022-08-30
-15,Mason Phillips,masonphillips@example.com,555-8901,321 Orange St,Las Vegas,NV,United States,Regular,2023-01-12
-16,Sofia Edwards,sofiaedwards@example.com,555-2345,654 Water St,Philadelphia,PA,United States,Regular,2024-05-29
-17,Ethan Collins,ethancollins@example.com,555-6789,789 Fire St,Charlotte,NC,United States,Regular,2022-10-07
-18,Ava Turner,avaturner@example.com,555-0123,123 Wind St,Minneapolis,MN,United States,Regular,2023-07-23
-19,Lucas Parker,lucasparker@example.com,555-4567,456 Snow St,San Diego,CA,United States,Regular,2021-09-18
-20,Mia Evans,miaevans@example.com,555-8901,789 Rain St,Orlando,FL,United States,Regular,2022-03-04
-21,Harper Reed,harperreed@example.com,555-2345,987 Vine St,Seattle,WA,United States,Regular,2023-08-11
-22,Lincoln Cooper,lincolncooper@example.com,555-6789,321 Rose St,Phoenix,AZ,United States,Regular,2022-02-16
-23,Chloe Rivera,chloerivera@example.com,555-0123,654 Lily St,Denver,CO,United States,Regular,2023-06-30
-24,Gabriel Ward,gabrielward@example.com,555-4567,789 Daisy St,Houston,TX,United States,Regular,2021-12-09
-25,Avery Hayes,averyhayes@example.com,555-8901,123 Sunflower St,Atlanta,GA,United States,Regular,2022-11-03
-26,Elizabeth Cox,elizabethcox@example.com,555-2345,456 Tulip St,Detroit,MI,United States,Regular,2023-04-21
-27,Owen Ramirez,owenramirez@example.com,555-6789,789 Daffodil St,Portland,OR,United States,Regular,2021-10-29
-28,Scarlett Ward,scarlettward@example.com,555-0123,987 Iris St,Las Vegas,NV,United States,Regular,2022-05-14
-29,Henry Foster,henryfoster@example.com,555-4567,321 Lily St,Charlotte,NC,United States,Regular,2023-02-27
-30,Amelia Hughes,ameliahughes@example.com,555-8901,654 Orchid St,Minneapolis,MN,United States,Regular,2021-08-02
-31,Sebastian Simmons,sebastiansimmons@example.com,555-2345,789 Bluebell St,San Diego,CA,United States,Regular,2022-03-17
-32,Victoria Ross,victoriaross@example.com,555-6789,123 Marigold St,Orlando,FL,United States,Regular,2023-07-08
-33,Jack Henderson,jackhenderson@example.com,555-0123,456 Hyacinth St,Los Angeles,CA,United States,Regular,2021-12-23
-34,Aria Reed,ariareed@example.com,555-4567,789 Pansy St,New York,NY,United States,Regular,2022-09-07
-35,Leo Cooper,leocooper@example.com,555-8901,987 Poppy St,Chicago,IL,United States,Regular,2023-01-22
-36,Grace Rivera,gracerivera@example.com,555-2345,321 Snapdragon St,Miami,FL,United States,Regular,2021-07-27
-37,Elijah Hayes,elijahhayes@example.com,555-6789,654 Aster St,San Francisco,CA,United States,Regular,2022-12-11
-38,Stella Cox,stellacox@example.com,555-0123,789 Carnation St,Boston,MA,United States,Regular,2023-03-26
-39,Nathan Ramirez,nathanramirez@example.com,555-4567,123 Lily of the Valley St,Dallas,TX,United States,Regular,2021-09-30
-40,Lily Ward,lilyward@example.com,555-8901,456 Gerbera St,Seattle,WA,United States,Regular,2022-04-14
-41,James Mitchell,jamesmitchell@example.com,555-2345,789 Lily St,Phoenix,AZ,United States,Regular,2023-05-29
-42,Lillian Cooper,lilliancooper@example.com,555-6789,123 Orchid St,Denver,CO,United States,Regular,2022-01-03
-43,Andrew Rivera,andrewrivera@example.com,555-0123,456 Tulip St,Houston,TX,United States,Regular,2023-09-17
-44,Bella Hayes,bellahayes@example.com,555-4567,789 Daisy St,Atlanta,GA,United States,Regular,2021-11-24
-45,Ethan Cox,ethancox@example.com,555-8901,987 Sunflower St,Detroit,MI,United States,Regular,2022-08-08
-46,Ava Ramirez,avaramirez@example.com,555-2345,321 Lily St,Portland,OR,United States,Regular,2023-03-23
-47,Noah Ward,noahward@example.com,555-6789,654 Iris St,Las Vegas,NV,United States,Regular,2021-10-09
-48,Charlotte Foster,charlottefoster@example.com,555-0123,789 Orchid St,Charlotte,NC,United States,Regular,2022-05-25
-49,William Hughes,williamhughes@example.com,555-4567,123 Bluebell St,Minneapolis,MN,United States,Regular,2023-01-08
-50,Sophia Simmons,sophiasimmons@example.com,555-8901,456 Marigold St,San Diego,CA,United States,Regular,2021-08-24
-51,Mason Ross,masonross@example.com,555-2345,789 Hyacinth St,Orlando,FL,United States,Regular,2022-03-10
-52,Amelia Henderson,ameliahenderson@example.com,555-6789,987 Pansy St,Los Angeles,CA,United States,Regular,2023-07-25
-53,Harper Reed,harperreed@example.com,555-0123,321 Snapdragon St,New York,NY,United States,Regular,2021-12-30
-54,Lincoln Cooper,lincolncooper@example.com,555-4567,654 Aster St,Chicago,IL,United States,Regular,2022-09-13
-55,Chloe Rivera,chloerivera@example.com,555-8901,789 Carnation St,Miami,FL,United States,Regular,2023-04-29
-56,Gabriel Ward,gabrielward@example.com,555-2345,123 Lily of the Valley St,San Francisco,CA,United States,Regular,2021-10-04
-57,Avery Hayes,averyhayes@example.com,555-6789,456 Gerbera St,Dallas,TX,United States,Regular,2022-05-19
-58,Elizabeth Cox,elizabethcox@example.com,555-0123,789 Lily St,Seattle,WA,United States,Regular,2023-01-03
-59,Owen Ramirez,owenramirez@example.com,555-4567,987 Orchid St,Phoenix,AZ,United States,Regular,2021-07-18
-60,Scarlett Ward,scarlettward@example.com,555-8901,321 Tulip St,Denver,CO,United States,Regular,2022-09-01
-61,Sebastian Simmons,sebastiansimmons@example.com,555-2345,654 Iris St,Houston,TX,United States,Regular,2023-05-15
-62,Victoria Ross,victoriaross@example.com,555-6789,789 Orchid St,Atlanta,GA,United States,Regular,2022-01-29
-63,Jack Henderson,jackhenderson@example.com,555-0123,123 Daisy St,Detroit,MI,United States,Regular,2023-09-11
-64,Aria Reed,ariareed@example.com,555-4567,456 Sunflower St,Portland,OR,United States,Regular,2021-11-26
-65,Leo Cooper,leocooper@example.com,555-8901,789 Lily St,Las Vegas,NV,United States,Regular,2022-08-12
-66,Grace Rivera,gracerivera@example.com,555-2345,987 Iris St,Charlotte,NC,United States,Regular,2023-03-28
-67,Elijah Hayes,elijahhayes@example.com,555-6789,321 Orchid St,Minneapolis,MN,United States,Regular,2021-10-12
-68,Stella Cox,stellacox@example.com,555-0123,654 Bluebell St,San Diego,CA,United States,Regular,2022-05-28
-69,Nathan Ramirez,nathanramirez@example.com,555-4567,789 Marigold St,Orlando,FL,United States,Regular,2023-01-13
-70,Lily Ward,lilyward@example.com,555-8901,123 Hyacinth St,Los Angeles,CA,United States,Regular,2021-08-30
-71,James Mitchell,jamesmitchell@example.com,555-2345,456 Pansy St,New York,NY,United States,Regular,2022-03-16
-72,Lillian Cooper,lilliancooper@example.com,555-6789,789 Snapdragon St,Chicago,IL,United States,Regular,2023-07-01
-73,Andrew Rivera,andrewrivera@example.com,555-0123,987 Aster St,Miami,FL,United States,Regular,2021-12-07
-74,Bella Hayes,bellahayes@example.com,555-4567,321 Carnation St,San Francisco,CA,United States,Regular,2022-08-22
-75,Ethan Cox,ethancox@example.com,555-8901,654 Lily St,Dallas,TX,United States,Regular,2023-04-07
-76,Ava Ramirez,avaramirez@example.com,555-2345,789 Rose St,Seattle,WA,United States,Regular,2021-10-22
-77,Noah Ward,noahward@example.com,555-6789,123 Tulip St,Phoenix,AZ,United States,Regular,2022-05-07
-78,Charlotte Foster,charlottefoster@example.com,555-0123,456 Gerbera St,Denver,CO,United States,Regular,2023-01-22
-79,William Hughes,williamhughes@example.com,555-4567,789 Lily of the Valley St,Houston,TX,United States,Regular,2021-07-27
-80,Sophia Simmons,sophiasimmons@example.com,555-8901,987 Orchid St,Atlanta,GA,United States,Regular,2022-09-10
-81,Mason Ross,masonross@example.com,555-2345,321 Daisy St,Detroit,MI,United States,Regular,2023-05-20
-82,Amelia Henderson,ameliahenderson@example.com,555-6789,654 Sunflower St,Portland,OR,United States,Regular,2022-01-04
-83,Harper Reed,harperreed@example.com,555-0123,789 Lily St,Las Vegas,NV,United States,Regular,2023-09-19
-84,Lincoln Cooper,lincolncooper@example.com,555-4567,123 Orchid St,Charlotte,NC,United States,Regular,2021-11-26
-85,Chloe Rivera,chloerivera@example.com,555-8901,456 Iris St,Minneapolis,MN,United States,Regular,2022-08-10
-86,Gabriel Ward,gabrielward@example.com,555-2345,789 Bluebell St,San Diego,CA,United States,Regular,2023-03-26
-87,Avery Hayes,averyhayes@example.com,555-6789,987 Marigold St,Orlando,FL,United States,Regular,2021-10-08
-88,Elizabeth Cox,elizabethcox@example.com,555-0123,321 Hyacinth St,Los Angeles,CA,United States,Regular,2022-05-23
-89,Owen Ramirez,owenramirez@example.com,555-4567,654 Pansy St,New York,NY,United States,Regular,2023-01-06
-90,Scarlett Ward,scarlettward@example.com,555-8901,789 Snapdragon St,Chicago,IL,United States,Regular,2021-08-21
-91,Sebastian Simmons,sebastiansimmons@example.com,555-2345,123 Aster St,Miami,FL,United States,Regular,2022-03-06
-92,Victoria Ross,victoriaross@example.com,555-6789,456 Carnation St,San Francisco,CA,United States,Regular,2023-07-21
-93,Jack Henderson,jackhenderson@example.com,555-0123,789 Lily St,Dallas,TX,United States,Regular,2021-12-26
-94,Aria Reed,ariareed@example.com,555-4567,987 Rose St,Seattle,WA,United States,Regular,2022-09-10
-95,Leo Cooper,leocooper@example.com,555-8901,321 Tulip St,Phoenix,AZ,United States,Regular,2023-04-26
-96,Grace Rivera,gracerivera@example.com,555-2345,654 Gerbera St,Denver,CO,United States,Regular,2021-10-10
-97,Elijah Hayes,elijahhayes@example.com,555-6789,789 Lily of the Valley St,Houston,TX,United States,Regular,2022-05-25
-98,Stella Cox,stellacox@example.com,555-0123,123 Orchid St,Atlanta,GA,United States,Regular,2023-01-08
-99,Nathan Ramirez,nathanramirez@example.com,555-4567,456 Daisy St,Detroit,MI,United States,Regular,2021-07-20
-100,Lily Ward,lilyward@example.com,555-8901,789 Sunflower St,Portland,OR,United States,Regular,2022-09-04
-101,Oliver Mitchell,olivermitchell@example.com,555-2345,123 Lily St,Las Vegas,NV,United States,Regular,2023-05-12
-102,Sophia Cooper,sophiacooper@example.com,555-6789,456 Iris St,Charlotte,NC,United States,Regular,2022-01-15
-103,Logan Rivera,loganrivera@example.com,555-0123,789 Orchid St,Minneapolis,MN,United States,Regular,2023-09-01
-104,Mia Hayes,miahayes@example.com,555-4567,987 Sunflower St,San Diego,CA,United States,Regular,2021-11-16
-105,Elijah Cox,elijahcox@example.com,555-8901,321 Bluebell St,Orlando,FL,United States,Regular,2022-08-01
-106,Ava Ramirez,avaramirez@example.com,555-2345,654 Marigold St,Los Angeles,CA,United States,Regular,2023-03-17
-107,Noah Ward,noahward@example.com,555-6789,789 Hyacinth St,New York,NY,United States,Regular,2021-10-31
-108,Charlotte Foster,charlottefoster@example.com,555-0123,987 Pansy St,Chicago,IL,United States,Regular,2022-05-16
-109,William Hughes,williamhughes@example.com,555-4567,321 Snapdragon St,Miami,FL,United States,Regular,2023-01-01
-110,Sophia Simmons,sophiasimmons@example.com,555-8901,654 Aster St,San Francisco,CA,United States,Regular,2021-08-18
-111,Mason Ross,masonross@example.com,555-2345,789 Carnation St,Dallas,TX,United States,Regular,2022-03-04
-112,Amelia Henderson,ameliahenderson@example.com,555-6789,123 Lily St,Seattle,WA,United States,Regular,2023-07-19
-113,Harper Reed,harperreed@example.com,555-0123,456 Rose St,Phoenix,AZ,United States,Regular,2021-12-25
-114,Lincoln Cooper,lincolncooper@example.com,555-4567,789 Tulip St,Denver,CO,United States,Regular,2022-09-09
-115,Chloe Rivera,chloerivera@example.com,555-8901,987 Gerbera St,Houston,TX,United States,Regular,2023-04-25
-116,Gabriel Ward,gabrielward@example.com,555-2345,321 Lily of the Valley St,Atlanta,GA,United States,Regular,2021-10-09
-117,Avery Hayes,averyhayes@example.com,555-6789,654 Orchid St,Detroit,MI,United States,Regular,2022-05-24
-118,Elizabeth Cox,elizabethcox@example.com,555-0123,789 Daisy St,Portland,OR,United States,Regular,2023-01-07
-119,Owen Ramirez,owenramirez@example.com,555-4567,987 Iris St,Las Vegas,NV,United States,Regular,2021-07-19
-120,Scarlett Ward,scarlettward@example.com,555-8901,321 Sunflower St,Charlotte,NC,United States,Regular,2022-09-02
-121,Sebastian Simmons,sebastiansimmons@example.com,555-2345,123 Orchid St,Minneapolis,MN,United States,Regular,2023-05-01
-122,Victoria Ross,victoriaross@example.com,555-6789,456 Carnation St,San Diego,CA,United States,Regular,2022-01-14
-123,Jack Henderson,jackhenderson@example.com,555-0123,789 Lily St,Orlando,FL,United States,Regular,2023-08-30
-124,Aria Reed,ariareed@example.com,555-4567,987 Rose St,Los Angeles,CA,United States,Regular,2021-11-12
-125,Leo Cooper,leocooper@example.com,555-8901,321 Tulip St,New York,NY,United States,Regular,2022-08-28
-126,Grace Rivera,gracerivera@example.com,555-2345,654 Gerbera St,Chicago,IL,United States,Regular,2023-03-15
-127,Elijah Hayes,elijahhayes@example.com,555-6789,789 Lily of the Valley St,San Francisco,CA,United States,Regular,2021-10-29
-128,Stella Cox,stellacox@example.com,555-0123,123 Orchid St,Dallas,TX,United States,Regular,2022-05-14
-129,Nathan Ramirez,nathanramirez@example.com,555-4567,456 Daisy St,Seattle,WA,United States,Regular,2023-01-29
-130,Lily Ward,lilyward@example.com,555-8901,789 Sunflower St,Phoenix,AZ,United States,Regular,2021-08-13
-131,Oliver Mitchell,olivermitchell@example.com,555-2345,123 Lily St,Denver,CO,United States,Regular,2022-02-27
-132,Sophia Cooper,sophiacooper@example.com,555-6789,456 Iris St,Houston,TX,United States,Regular,2023-07-14
-133,Logan Rivera,loganrivera@example.com,555-0123,789 Orchid St,Atlanta,GA,United States,Regular,2021-12-24
-134,Mia Hayes,miahayes@example.com,555-4567,987 Sunflower St,Detroit,MI,United States,Regular,2022-09-07
-135,Elijah Cox,elijahcox@example.com,555-8901,321 Bluebell St,Portland,OR,United States,Regular,2023-04-23
-136,Ava Ramirez,avaramirez@example.com,555-2345,654 Marigold St,Las Vegas,NV,United States,Regular,2021-10-06
-137,Noah Ward,noahward@example.com,555-6789,789 Hyacinth St,Charlotte,NC,United States,Regular,2022-05-21
-138,Charlotte Foster,charlottefoster@example.com,555-0123,987 Pansy St,Minneapolis,MN,United States,Regular,2023-01-04
-139,William Hughes,williamhughes@example.com,555-4567,321 Snapdragon St,San Diego,CA,United States,Regular,2021-07-18
-140,Sophia Simmons,sophiasimmons@example.com,555-8901,654 Aster St,Orlando,FL,United States,Regular,2022-08-30
-141,Mason Ross,masonross@example.com,555-2345,123 Carnation St,Los Angeles,CA,United States,Regular,2023-04-20
-142,Amelia Henderson,ameliahenderson@example.com,555-6789,456 Lily St,New York,NY,United States,Regular,2021-12-12
-143,Harper Reed,harperreed@example.com,555-0123,789 Rose St,Chicago,IL,United States,Regular,2022-09-05
-144,Lincoln Cooper,lincolncooper@example.com,555-4567,987 Tulip St,Miami,FL,United States,Regular,2023-05-22
-145,Chloe Rivera,chloerivera@example.com,555-8901,321 Gerbera St,San Francisco,CA,United States,Regular,2021-11-08
-146,Gabriel Ward,gabrielward@example.com,555-2345,654 Lily of the Valley St,Dallas,TX,United States,Regular,2022-07-25
-147,Avery Hayes,averyhayes@example.com,555-6789,789 Orchid St,Seattle,WA,United States,Regular,2023-02-09
-148,Elizabeth Cox,elizabethcox@example.com,555-0123,987 Daisy St,Phoenix,AZ,United States,Regular,2021-09-23
-149,Owen Ramirez,owenramirez@example.com,555-4567,321 Iris St,Denver,CO,United States,Regular,2022-04-09
-150,Scarlett Ward,scarlettward@example.com,555-8901,654 Sunflower St,Houston,TX,United States,Regular,2023-10-01
-151,Sebastian Simmons,sebastiansimmons@example.com,555-2345,123 Orchid St,Portland,OR,United States,Regular,2021-12-08
-152,Victoria Ross,victoriaross@example.com,555-6789,456 Carnation St,Las Vegas,NV,United States,Regular,2023-06-25
-153,Jack Henderson,jackhenderson@example.com,555-0123,789 Lily St,Charlotte,NC,United States,Regular,2022-03-11
-154,Aria Reed,ariareed@example.com,555-4567,987 Rose St,Minneapolis,MN,United States,Regular,2021-10-27
-155,Leo Cooper,leocooper@example.com,555-8901,321 Tulip St,San Diego,CA,United States,Regular,2022-07-13
-156,Grace Rivera,gracerivera@example.com,555-2345,654 Gerbera St,Orlando,FL,United States,Regular,2023-01-28
-157,Elijah Hayes,elijahhayes@example.com,555-6789,789 Lily of the Valley St,Atlanta,GA,United States,Regular,2021-09-03
-158,Stella Cox,stellacox@example.com,555-0123,123 Orchid St,Detroit,MI,United States,Regular,2022-04-18
-159,Nathan Ramirez,nathanramirez@example.com,555-4567,456 Daisy St,Seattle,WA,United States,Regular,2023-10-03
-160,Lily Ward,lilyward@example.com,555-8901,789 Sunflower St,Phoenix,AZ,United States,Regular,2021-12-29
-161,Oliver Mitchell,olivermitchell@example.com,555-2345,123 Lily St,Dallas,TX,United States,Regular,2023-08-16
-162,Sophia Cooper,sophiacooper@example.com,555-6789,456 Iris St,Seattle,WA,United States,Regular,2021-11-30
-163,Logan Rivera,loganrivera@example.com,555-0123,789 Orchid St,Denver,CO,United States,Regular,2022-06-14
-164,Mia Hayes,miahayes@example.com,555-4567,987 Sunflower St,Houston,TX,United States,Regular,2023-02-27
-165,Elijah Cox,elijahcox@example.com,555-8901,321 Bluebell St,Atlanta,GA,United States,Regular,2021-09-11
-166,Ava Ramirez,avaramirez@example.com,555-2345,654 Marigold St,Detroit,MI,United States,Regular,2022-03-28
-167,Noah Ward,noahward@example.com,555-6789,789 Hyacinth St,Minneapolis,MN,United States,Regular,2023-09-10
-168,Charlotte Foster,charlottefoster@example.com,555-0123,987 Pansy St,San Diego,CA,United States,Regular,2021-12-26
-169,William Hughes,williamhughes@example.com,555-4567,321 Snapdragon St,Orlando,FL,United States,Regular,2022-08-10
-170,Sophia Simmons,sophiasimmons@example.com,555-8901,654 Aster St,Miami,FL,United States,Regular,2023-05-25
-171,Mason Ross,masonross@example.com,555-2345,123 Carnation St,New York,NY,United States,Regular,2021-11-19
-172,Amelia Henderson,ameliahenderson@example.com,555-6789,456 Lily St,Chicago,IL,United States,Regular,2022-06-04
-173,Harper Reed,harperreed@example.com,555-0123,789 Rose St,Los Angeles,CA,United States,Regular,2023-02-17
-174,Lincoln Cooper,lincolncooper@example.com,555-4567,987 Tulip St,San Francisco,CA,United States,Regular,2021-09-04
-175,Chloe Rivera,chloerivera@example.com,555-8901,321 Gerbera St,Dallas,TX,United States,Regular,2022-03-21
-176,Gabriel Ward,gabrielward@example.com,555-2345,654 Lily of the Valley St,Seattle,WA,United States,Regular,2023-10-04
-177,Avery Hayes,averyhayes@example.com,555-6789,789 Orchid St,Phoenix,AZ,United States,Regular,2021-12-17
-178,Elizabeth Cox,elizabethcox@example.com,555-0123,987 Daisy St,Denver,CO,United States,Regular,2022-07-02
-179,Owen Ramirez,owenramirez@example.com,555-4567,321 Iris St,Houston,TX,United States,Regular,2023-03-19
-180,Scarlett Ward,scarlettward@example.com,555-8901,654 Sunflower St,Atlanta,GA,United States,Regular,2021-10-01
-181,Sebastian Simmons,sebastiansimmons@example.com,555-2345,123 Orchid St,Portland,OR,United States,Regular,2022-09-12
-182,Victoria Ross,victoriaross@example.com,555-6789,456 Carnation St,Las Vegas,NV,United States,Regular,2023-04-05
-183,Jack Henderson,jackhenderson@example.com,555-0123,789 Lily St,Charlotte,NC,United States,Regular,2021-12-30
-184,Aria Reed,ariareed@example.com,555-4567,987 Rose St,Minneapolis,MN,United States,Regular,2022-07-15
-185,Leo Cooper,leocooper@example.com,555-8901,321 Tulip St,San Diego,CA,United States,Regular,2023-02-28
-186,Grace Rivera,gracerivera@example.com,555-2345,654 Gerbera St,Orlando,FL,United States,Regular,2021-09-17
-187,Elijah Hayes,elijahhayes@example.com,555-6789,789 Lily of the Valley St,Atlanta,GA,United States,Regular,2022-04-03
-188,Stella Cox,stellacox@example.com,555-0123,123 Orchid St,Detroit,MI,United States,Regular,2023-10-19
-189,Nathan Ramirez,nathanramirez@example.com,555-4567,456 Daisy St,Seattle,WA,United States,Regular,2021-12-12
-190,Lily Ward,lilyward@example.com,555-8901,789 Sunflower St,Phoenix,AZ,United States,Regular,2022-05-28
-191,Oliver Mitchell,olivermitchell@example.com,555-2345,123 Lily St,Dallas,TX,United States,Regular,2023-01-10
-192,Sophia Cooper,sophiacooper@example.com,555-6789,456 Iris St,Seattle,WA,United States,Regular,2021-11-25
-193,Logan Rivera,loganrivera@example.com,555-0123,789 Orchid St,Denver,CO,United States,Regular,2022-08-10
-194,Mia Hayes,miahayes@example.com,555-4567,987 Sunflower St,Houston,TX,United States,Regular,2023-03-25
-195,Elijah Cox,elijahcox@example.com,555-8901,321 Bluebell St,Atlanta,GA,United States,Regular,2021-09-13
-196,Ava Ramirez,avaramirez@example.com,555-2345,654 Marigold St,Detroit,MI,United States,Regular,2022-04-28
-197,Noah Ward,noahward@example.com,555-6789,789 Hyacinth St,Minneapolis,MN,United States,Regular,2023-11-10
-198,Charlotte Foster,charlottefoster@example.com,555-0123,987 Pansy St,San Diego,CA,United States,Regular,2021-12-06
-199,William Hughes,williamhughes@example.com,555-4567,321 Snapdragon St,Orlando,FL,United States,Regular,2023-07-21
-200,Sophia Simmons,sophiasimmons@example.com,555-8901,654 Aster St,Miami,FL,United States,Regular,2021-10-18
+Customer_ID,First_Name,Last_Name,Email,Phone,Country,City,Zip_Code,Gender,Age,Loyalty_Program
+1,Sophia,Gonzalez,sophia.gonzalez@email.com,555-1234,Mexico,Mexico City,06000,Female,35,True
+2,Liam,Nguyen,liam.nguyen@email.com,555-5678,Vietnam,Hanoi,100000,Male,28,True
+3,Ava,Müller,ava.muller@email.com,555-9012,Germany,Berlin,10115,Female,41,True
+4,Oliver,Rossi,oliver.rossi@email.com,555-3456,Italy,Rome,00100,Male,52,True
+5,Isabella,Takahashi,isabella.takahashi@email.com,555-7890,Japan,Tokyo,163-0001,Female,24,True
+6,Noah,Macdonald,noah.macdonald@email.com,555-2345,Canada,Toronto,M5V 2T6,Male,31,True
+7,Mia,Morales,mia.morales@email.com,555-6789,Spain,Barcelona,08001,Female,38,True
+8,William,Chen,william.chen@email.com,555-0123,China,Shanghai,200000,Male,47,True
+9,Emma,Patel,emma.patel@email.com,555-4567,India,Mumbai,400001,Female,29,True
+10,Benjamin,Andersson,benjamin.andersson@email.com,555-8901,Sweden,Stockholm,111 32,Male,26,True
+11,Olivia,Santos,olivia.santos@email.com,555-2345,Brazil,Sao Paulo,01000-000,Female,33,True
+12,Ethan,Dupont,ethan.dupont@email.com,555-6789,France,Paris,75001,Male,42,True
+13,Harper,Ikeda,harper.ikeda@email.com,555-0123,Japan,Osaka,530-0001,Female,27,True
+14,Jacob,Hernandez,jacob.hernandez@email.com,555-4567,Mexico,Guadalajara,44100,Male,39,True
+15,Abigail,Sato,abigail.sato@email.com,555-8901,Brazil,Rio de Janeiro,20000-000,Female,36,True
+16,Alexander,Dubois,alexander.dubois@email.com,555-2345,Canada,Montreal,H3B 4X8,Male,30,True
+17,Emily,Rodriguez,emily.rodriguez@email.com,555-6789,Spain,Madrid,28001,Female,43,True
+18,Lucas,Kovacs,lucas.kovacs@email.com,555-0123,Hungary,Budapest,1052,Male,25,True
+19,Avery,Nguyen,avery.nguyen@email.com,555-4567,Vietnam,Ho Chi Minh City,70000,Female,34,True
+20,Mason,Gonzalez,mason.gonzalez@email.com,555-8901,Mexico,Monterrey,64000,Male,48,True
+21,Evelyn,Tanaka,evelyn.tanaka@email.com,555-2468,Japan,Kobe,650-0011,Female,31,True
+22,Daniel,Ramos,daniel.ramos@email.com,555-7890,Brazil,Brasilia,70000-000,Male,27,True
+23,Isabella,Müller,isabella.muller@email.com,555-1357,Germany,Munich,80331,Female,38,True
+24,Alexander,Tanaka,alexander.tanaka@email.com,555-2468,Japan,Nagoya,460-0001,Male,45,True
+25,Avery,Morales,avery.morales@email.com,555-7890,Spain,Valencia,46001,Female,29,True
+26,Ethan,Fernandez,ethan.fernandez@email.com,555-1357,Argentina,Buenos Aires,C1063,Male,33,True
+27,Mia,Patel,mia.patel@email.com,555-2468,India,Delhi,110001,Female,42,True
+28,Jacob,Nguyen,jacob.nguyen@email.com,555-7890,Vietnam,Da Nang,550000,Male,36,True
+29,Harper,Rossi,harper.rossi@email.com,555-1357,Italy,Milan,20100,Female,28,True
+30,Benjamin,Duarte,benjamin.duarte@email.com,555-2468,Mexico,Tijuana,22000,Male,40,True
+31,Olivia,Andersson,olivia.andersson@email.com,555-7890,Sweden,Gothenburg,411 33,Female,35,True
+32,Noah,Dupont,noah.dupont@email.com,555-1357,France,Marseille,13000,Male,30,True
+33,Abigail,Sato,abigail.sato@email.com,555-2468,Japan,Yokohama,220-0011,Female,39,True
+34,William,Chen,william.chen@email.com,555-7890,China,Guangzhou,510000,Male,47,True
+35,Evelyn,Morales,evelyn.morales@email.com,555-1357,Spain,Seville,41001,Female,25,True
+36,Daniel,Kovacs,daniel.kovacs@email.com,555-2468,Hungary,Debrecen,4032,Male,34,True
+37,Mia,Dubois,mia.dubois@email.com,555-7890,France,Lyon,69001,Female,41,True
+38,Alexander,Hernandez,alexander.hernandez@email.com,555-1357,Mexico,Tijuana,22000,Male,32,True
+39,Isabella,Sato,isabella.sato@email.com,555-2468,Japan,Kobe,650-0011,Female,37,True
+40,Ethan,Rossi,ethan.rossi@email.com,555-7890,Italy,Turin,10100,Male,26,True
+41,Emma,Patel,emma.patel@email.com,555-1234,India,Chennai,600001,Female,33,True
+42,Lucas,Fernandez,lucas.fernandez@email.com,555-5678,Argentina,Cordoba,5000,Male,29,True
+43,Avery,Dubois,avery.dubois@email.com,555-9012,France,Toulouse,31000,Female,35,True
+44,Mason,Chen,mason.chen@email.com,555-3456,China,Shenzhen,518000,Male,41,True
+45,Emily,Macdonald,emily.macdonald@email.com,555-7890,Canada,Vancouver,V6B 5K3,Female,27,True
+46,Jacob,Morales,jacob.morales@email.com,555-2345,Spain,Malaga,29001,Male,38,True
+47,Abigail,Ikeda,abigail.ikeda@email.com,555-6789,Japan,Kobe,650-0011,Female,30,True
+48,William,Hernandez,william.hernandez@email.com,555-0123,Mexico,Guadalajara,44100,Male,44,True
+49,Evelyn,Duarte,evelyn.duarte@email.com,555-4567,Mexico,Monterrey,64000,Female,31,True
+50,Benjamin,Kovacs,benjamin.kovacs@email.com,555-8901,Hungary,Szeged,6720,Male,28,True
+51,Olivia,Sato,olivia.sato@email.com,555-2345,Japan,Osaka,530-0001,Female,36,True
+52,Noah,Rossi,noah.rossi@email.com,555-6789,Italy,Florence,50100,Male,40,True
+53,Harper,Patel,harper.patel@email.com,555-0123,India,Mumbai,400001,Female,34,True
+54,Alexander,Andersson,alexander.andersson@email.com,555-4567,Sweden,Malmö,211 18,Male,32,True
+55,Isabella,Dubois,isabella.dubois@email.com,555-8901,France,Bordeaux,33000,Female,39,True
+56,Ethan,Macdonald,ethan.macdonald@email.com,555-2345,Canada,Calgary,T2P 2M5,Male,26,True
+57,Mia,Takahashi,mia.takahashi@email.com,555-6789,Japan,Nagoya,460-0001,Female,35,True
+58,Daniel,Ramos,daniel.ramos@email.com,555-0123,Brazil,Recife,50000-000,Male,30,True
+59,Avery,Patel,avery.patel@email.com,555-4567,India,Kolkata,700001,Female,42,True
+60,Mason,Gonzalez,mason.gonzalez@email.com,555-8901,Mexico,Tijuana,22000,Male,37,True
+61,Emma,Tanaka,emma.tanaka@email.com,555-2468,Japan,Osaka,530-0001,Female,29,True
+62,Lucas,Fernandez,lucas.fernandez@email.com,555-7890,Argentina,Mendoza,5500,Male,33,True
+63,Avery,Morales,avery.morales@email.com,555-1357,Spain,Bilbao,48001,Female,27,True
+64,Mason,Chen,mason.chen@email.com,555-2468,China,Tianjin,300000,Male,38,True
+65,Emily,Dupont,emily.dupont@email.com,555-7890,France,Strasbourg,67000,Female,35,True
+66,Jacob,Nguyen,jacob.nguyen@email.com,555-1357,Vietnam,Hanoi,100000,Male,41,True
+67,Abigail,Rossi,abigail.rossi@email.com,555-2468,Italy,Naples,80100,Female,30,True
+68,William,Duarte,william.duarte@email.com,555-7890,Mexico,Tijuana,22000,Male,44,True
+69,Evelyn,Sato,evelyn.sato@email.com,555-1357,Japan,Kobe,650-0011,Female,31,True
+70,Benjamin,Kovacs,benjamin.kovacs@email.com,555-2468,Hungary,Miskolc,3525,Male,28,True
+71,Olivia,Andersson,olivia.andersson@email.com,555-7890,Sweden,Stockholm,111 21,Female,36,True
+72,Noah,Dubois,noah.dubois@email.com,555-1357,France,Lille,59000,Male,40,True
+73,Harper,Morales,harper.morales@email.com,555-2468,Spain,Granada,18001,Female,34,True
+74,Alexander,Hernandez,alexander.hernandez@email.com,555-7890,Mexico,Mexico City,06000,Male,32,True
+75,Isabella,Patel,isabella.patel@email.com,555-1357,India,Bangalore,560001,Female,39,True
+76,Ethan,Macdonald,ethan.macdonald@email.com,555-2468,Canada,Toronto,M5H 2N2,Male,26,True
+77,Mia,Takahashi,mia.takahashi@email.com,555-7890,Japan,Sapporo,060-0000,Female,35,True
+78,Daniel,Ramos,daniel.ramos@email.com,555-1357,Brazil,Curitiba,80000-000,Male,30,True
+79,Avery,Fernandez,avery.fernandez@email.com,555-2468,Argentina,Buenos Aires,C1063,Female,42,True
+80,Mason,Gonzalez,mason.gonzalez@email.com,555-7890,Mexico,Monterrey,64000,Male,37,True
+81,Emma,Ikeda,emma.ikeda@email.com,555-2468,Japan,Tokyo,100-0001,Female,29,True
+82,Lucas,Perez,lucas.perez@email.com,555-7890,Spain,Valencia,46001,Male,33,True
+83,Avery,Lam,avery.lam@email.com,555-1357,Hong Kong,Kowloon,999077,Female,27,True
+84,Mason,Zhang,mason.zhang@email.com,555-2468,China,Guangzhou,510000,Male,38,True
+85,Emily,Sanchez,emily.sanchez@email.com,555-7890,Mexico,Guadalajara,44100,Female,35,True
+86,Jacob,Diaz,jacob.diaz@email.com,555-1357,Chile,Santiago,8320000,Male,41,True
+87,Abigail,Muller,abigail.muller@email.com,555-2468,Germany,Berlin,10115,Female,30,True
+88,William,Pires,william.pires@email.com,555-7890,Brazil,Sao Paulo,01000-000,Male,44,True
+89,Evelyn,Nakamura,evelyn.nakamura@email.com,555-1357,Japan,Kyoto,600-8001,Female,31,True
+90,Benjamin,Suarez,benjamin.suarez@email.com,555-2468,Argentina,Cordoba,5000,Male,28,True
+91,Olivia,Jorgensen,olivia.jorgensen@email.com,555-7890,Norway,Oslo,0109,Female,36,True
+92,Noah,Deschamps,noah.deschamps@email.com,555-1357,France,Marseille,13000,Male,40,True
+93,Harper,Lee,harper.lee@email.com,555-2468,South Korea,Seoul,06236,Female,34,True
+94,Alexander,Cardoso,alexander.cardoso@email.com,555-7890,Brazil,Rio de Janeiro,20000-000,Male,32,True
+95,Isabella,Yamamoto,isabella.yamamoto@email.com,555-1357,Japan,Yokohama,220-0001,Female,39,True
+96,Ethan,Mercier,ethan.mercier@email.com,555-2468,Canada,Montreal,H3B 4G7,Male,26,True
+97,Mia,Zheng,mia.zheng@email.com,555-7890,China,Shanghai,200000,Female,35,True
+98,Daniel,Alves,daniel.alves@email.com,555-1357,Brazil,Brasilia,70000-000,Male,30,True
+99,Avery,Gomez,avery.gomez@email.com,555-2468,Mexico,Tijuana,22000,Female,42,True
+100,Mason,Ito,mason.ito@email.com,555-7890,Japan,Kobe,650-0011,Male,37,True
+101,Emma,Gutierrez,emma.gutierrez@email.com,555-2468,Spain,Madrid,28001,Female,29,True
+102,Lucas,Vazquez,lucas.vazquez@email.com,555-7890,Spain,Barcelona,08001,Male,33,True
+103,Avery,Kim,avery.kim@email.com,555-1357,South Korea,Busan,48000,Female,27,True
+104,Mason,Ahmed,mason.ahmed@email.com,555-2468,Egypt,Cairo,11511,Male,38,True
+105,Emily,Almeida,emily.almeida@email.com,555-7890,Brazil,Belo Horizonte,30000-000,Female,35,True
+106,Jacob,Aoki,jacob.aoki@email.com,555-1357,Japan,Osaka,530-0001,Male,41,True
+107,Abigail,Flores,abigail.flores@email.com,555-2468,Mexico,Puebla,72000,Female,30,True
+108,William,Moreira,william.moreira@email.com,555-7890,Brazil,Salvador,40000-000,Male,44,True
+109,Evelyn,Shimizu,evelyn.shimizu@email.com,555-1357,Japan,Hiroshima,730-0811,Female,31,True
+110,Benjamin,Ramos,benjamin.ramos@email.com,555-2468,Brazil,Curitiba,80000-000,Male,28,True
+111,Olivia,Castillo,olivia.castillo@email.com,555-7890,Mexico,Monterrey,64000,Female,36,True
+112,Noah,Lefevre,noah.lefevre@email.com,555-1357,France,Toulouse,31000,Male,40,True
+113,Harper,Choi,harper.choi@email.com,555-2468,South Korea,Incheon,22100,Female,34,True
+114,Alexander,Malik,alexander.malik@email.com,555-7890,Pakistan,Karachi,75600,Male,32,True
+115,Isabella,Khan,isabella.khan@email.com,555-1357,Pakistan,Lahore,54000,Female,39,True
+116,Ethan,Araujo,ethan.araujo@email.com,555-2468,Brazil,Porto Alegre,90000-000,Male,26,True
+117,Mia,Tanaka,mia.tanaka@email.com,555-7890,Japan,Nagoya,460-0001,Female,35,True
+118,Daniel,Ferreira,daniel.ferreira@email.com,555-1357,Brazil,Recife,50000-000,Male,30,True
+119,Avery,Navarro,avery.navarro@email.com,555-2468,Mexico,Tijuana,22000,Female,42,True
+120,Mason,Kaur,mason.kaur@email.com,555-7890,India,Delhi,110001,Male,37,True
+121,Emma,Patel,emma.patel@email.com,555-2468,India,Mumbai,400001,Female,29,True
+122,Lucas,Singh,lucas.singh@email.com,555-7890,India,Bangalore,560001,Male,33,True
+123,Avery,Tandon,avery.tandon@email.com,555-1357,India,Kolkata,700001,Female,27,True
+124,Mason,Kapoor,mason.kapoor@email.com,555-2468,India,Chennai,600001,Male,38,True
+125,Emily,Gupta,emily.gupta@email.com,555-7890,India,Hyderabad,500001,Female,35,True
+126,Jacob,Sharma,jacob.sharma@email.com,555-1357,India,Ahmedabad,380001,Male,41,True
+127,Abigail,Chopra,abigail.chopra@email.com,555-2468,India,Surat,395001,Female,30,True
+128,William,Agarwal,william.agarwal@email.com,555-7890,India,Pune,411001,Male,44,True
+129,Evelyn,Malhotra,evelyn.malhotra@email.com,555-1357,India,Jaipur,302001,Female,31,True
+130,Benjamin,Mehta,benjamin.mehta@email.com,555-2468,India,Lucknow,226001,Male,28,True
+131,Olivia,Arora,olivia.arora@email.com,555-7890,India,Kanpur,208001,Female,36,True
+132,Noah,Verma,noah.verma@email.com,555-1357,India,Nagpur,440001,Male,40,True
+133,Harper,Bhatia,harper.bhatia@email.com,555-2468,India,Thane,400601,Female,34,True
+134,Alexander,Mahajan,alexander.mahajan@email.com,555-7890,India,Bhopal,462001,Male,32,True
+135,Isabella,Choudhary,isabella.choudhary@email.com,555-1357,India,Visakhapatnam,530001,Female,39,True
+136,Ethan,Dutta,ethan.dutta@email.com,555-2468,India,Indore,452001,Male,26,True
+137,Mia,Chatterjee,mia.chatterjee@email.com,555-7890,India,Patna,800001,Female,35,True
+138,Daniel,Bajaj,daniel.bajaj@email.com,555-1357,India,Ludhiana,141001,Male,30,True
+139,Avery,Kapil,avery.kapil@email.com,555-2468,India,Nashik,422101,Female,42,True
+140,Mason,Chandra,mason.chandra@email.com,555-7890,India,Varanasi,221001,Male,37,True
+141,Emma,Bhatt,emma.bhatt@email.com,555-2468,India,Srinagar,190001,Female,29,True
+142,Lucas,Yadav,lucas.yadav@email.com,555-7890,India,Rajkot,360001,Male,33,True
+143,Avery,Mathur,avery.mathur@email.com,555-1357,India,Dhanbad,826001,Female,27,True
+144,Mason,Desai,mason.desai@email.com,555-2468,India,Amritsar,143001,Male,38,True
+145,Emily,Chaudhary,emily.chaudhary@email.com,555-7890,India,Navi Mumbai,400701,Female,35,True
+146,Jacob,Agarwal,jacob.agarwal@email.com,555-1357,India,Aurangabad,431001,Male,41,True
+147,Abigail,Tripathi,abigail.tripathi@email.com,555-2468,India,Ranchi,834001,Female,30,True
+148,William,Varma,william.varma@email.com,555-7890,India,Allahabad,211001,Male,44,True
+149,Evelyn,Joshi,evelyn.joshi@email.com,555-1357,India,Gwalior,474001,Female,31,True
+150,Benjamin,Patel,benjamin.patel@email.com,555-2468,India,Jabalpur,482001,Male,28,True
+151,Olivia,Mehra,olivia.mehra@email.com,555-7890,India,Vijayawada,520001,Female,36,True
+152,Noah,Agarwal,noah.agarwal@email.com,555-1357,India,Jodhpur,342001,Male,40,True
+153,Harper,Gupta,harper.gupta@email.com,555-2468,India,Raipur,492001,Female,34,True
+154,Alexander,Sharma,alexander.sharma@email.com,555-7890,India,Kochi,682001,Male,32,True
+155,Isabella,Malhotra,isabella.malhotra@email.com,555-1357,India,Hubli-Dharwad,580020,Female,39,True
+156,Ethan,Chopra,ethan.chopra@email.com,555-2468,India,Moradabad,244001,Male,26,True
+157,Mia,Arora,mia.arora@email.com,555-7890,India,Mysore,570001,Female,35,True
+158,Daniel,Kapoor,daniel.kapoor@email.com,555-1357,India,Vadodara,390001,Male,30,True
+159,Avery,Verma,avery.verma@email.com,555-2468,India,Tiruchirappalli,620001,Female,42,True
+160,Mason,Basu,mason.basu@email.com,555-7890,India,Agra,282001,Male,37,True
+161,Emma,Deshmukh,emma.deshmukh@email.com,555-2468,India,Madurai,625001,Female,29,True
+162,Lucas,Deshpande,lucas.deshpande@email.com,555-7890,India,Nashik,422101,Male,33,True
+163,Avery,Kulkarni,avery.kulkarni@email.com,555-1357,India,Howrah,711101,Female,27,True
+164,Mason,Waghmare,mason.waghmare@email.com,555-2468,India,Vasai-Virar,401305,Male,38,True
+165,Emily,Jadhav,emily.jadhav@email.com,555-7890,India,Varanasi,221001,Female,35,True
+166,Jacob,Patil,jacob.patil@email.com,555-1357,India,Surat,395001,Male,41,True
+167,Abigail,Pawar,abigail.pawar@email.com,555-2468,India,Meerut,250001,Female,30,True
+168,William,Kadam,william.kadam@email.com,555-7890,India,Faridabad,121001,Male,44,True
+169,Evelyn,Salunkhe,evelyn.salunkhe@email.com,555-1357,India,Ghaziabad,201001,Female,31,True
+170,Benjamin,Deshpande,benjamin.deshpande@email.com,555-2468,India,Kalyan-Dombivali,421301,Male,28,True
+171,Olivia,Bhosale,olivia.bhosale@email.com,555-7890,India,Thiruvananthapuram,695001,Female,36,True
+172,Noah,Gaikwad,noah.gaikwad@email.com,555-1357,India,Bhubaneswar,751001,Male,40,True
+173,Harper,Deshpande,harper.deshpande@email.com,555-2468,India,Solapur,413001,Female,34,True
+174,Alexander,Patil,alexander.patil@email.com,555-7890,India,Rajkot,360001,Male,32,True
+175,Isabella,Pawar,isabella.pawar@email.com,555-1357,India,Gwalior,474001,Female,39,True
+176,Ethan,Parekh,ethan.parekh@email.com,555-2468,India,Raipur,492001,Male,26,True
+177,Mia,Mehta,mia.mehta@email.com,555-7890,India,Kolhapur,416001,Female,35,True
+178,Daniel,Acharya,daniel.acharya@email.com,555-1357,India,Bareilly,243001,Male,30,True
+179,Avery,Rane,avery.rane@email.com,555-2468,India,Shimla,171001,Female,42,True
+180,Mason,Chavan,mason.chavan@email.com,555-7890,India,Aligarh,202001,Male,37,True
+181,Emma,Patel,emma.patel@email.com,555-2468,India,Nellore,524001,Female,29,True
+182,Lucas,Shah,lucas.shah@email.com,555-7890,India,Aurangabad,431001,Male,33,True
+183,Avery,Mehta,avery.mehta@email.com,555-1357,India,Tiruppur,641604,Female,27,True
+184,Mason,Desai,mason.desai@email.com,555-2468,India,Saharanpur,247001,Male,38,True
+185,Emily,Patel,emily.patel@email.com,555-7890,India,Guntur,522001,Female,35,True
+186,Jacob,Iyer,jacob.iyer@email.com,555-1357,India,Jamshedpur,831001,Male,41,True
+187,Abigail,Nair,abigail.nair@email.com,555-2468,India,Warangal,506001,Female,30,True
+188,William,Menon,william.menon@email.com,555-7890,India,Kochi,682001,Male,44,True
+189,Evelyn,Pillai,evelyn.pillai@email.com,555-1357,India,Ghaziabad,201001,Female,31,True
+190,Benjamin,Kurup,benjamin.kurup@email.com,555-2468,India,Durgapur,713201,Male,28,True
+191,Olivia,Menon,olivia.menon@email.com,555-7890,India,Amritsar,143001,Female,36,True
+192,Noah,Joseph,noah.joseph@email.com,555-1357,India,Bhopal,462001,Male,40,True
+193,Harper,Anthony,harper.anthony@email.com,555-2468,India,Cuttack,753001,Female,34,True
+194,Alexander,Thomas,alexander.thomas@email.com,555-7890,India,Visakhapatnam,530001,Male,32,True
+195,Isabella,Sebastian,isabella.sebastian@email.com,555-1357,India,Nashik,422101,Female,39,True
+196,Ethan,George,ethan.george@email.com,555-2468,India,Vadodara,390001,Male,26,True
+197,Mia,Mathew,mia.mathew@email.com,555-7890,India,Ranchi,834001,Female,35,True
+198,Daniel,Varghese,daniel.varghese@email.com,555-1357,India,Dhanbad,826001,Male,30,True
+199,Avery,Jacob,avery.jacob@email.com,555-2468,India,Allahabad,211001,Female,42,True
+200,Mason,Jose,mason.jose@email.com,555-7890,India,Jabalpur,482001,Male,37,True
